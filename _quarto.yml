@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "GTDID"
+  title: "CREONS"
 
   navbar:
     left:
@@ -42,7 +42,7 @@ website:
       - text: "Methodological framework"
         href: en/about.qmd
 
-      - text: "Senegal Survey"
+      - text: "GTDID"
         href: en/research.qmd
 
       - text: "Data Managing"
@@ -50,28 +50,6 @@ website:
 
       - text: "📚 Bibliography"
         href: en/bibliography.qmd
-
-
-      ########################################
-      # 🇸🇳 ONGLET WOLOF
-      ########################################
-      - text: "Xéewal"
-        href: sn/index.qmd
-        
-      - text: "Jokkondiral"
-        href: sn/contact.qmd
-        
-      - text: "Xam-xam"
-        href: sn/about.qmd
-
-      - text: "Jàng"
-        href: sn/recherche.qmd
-
-      - text: "Donnéyi"
-        href: sn/donnees.qmd
-
-      - text: "📚 Dencukaay"
-        href: sn/dencukaay.qmd
 
 
     ########################################
@@ -87,8 +65,6 @@ website:
             href: "#fr"
           - text: "🇬🇧 English"
             href: "#en"
-          - text: "🇸🇳 Wolof"
-            href: "#sn"
 
 format:
   html:
