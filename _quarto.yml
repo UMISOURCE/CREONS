@@ -20,7 +20,7 @@ website:
       - text: "Cadre méthodologique"
         href: fr/about.qmd
 
-      - text: "Enquête Sénégal"
+      - text: "Groupe de travail disparités et inégalités doctorales (GTDID)"
         href: fr/recherche.qmd
 
       - text: "Gestion des données"
