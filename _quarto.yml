@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  
+zotero: "CREONS_website"
 
 website:
   title: "CREONS"
+  
 
   navbar:
     left:
@@ -14,8 +17,8 @@ website:
       - text: "Le projet"
         href: fr/index.qmd
 
-      - text: "Qui sommes-nous ?"
-        href: fr/contact.qmd
+     # - text: "Qui sommes-nous ?"
+     #  href: fr/contact.qmd
 
       - text: "Cadre méthodologique"
         href: fr/about.qmd
@@ -23,7 +26,7 @@ website:
       - text: "GTDID"
         href: fr/recherche.qmd
 
-      - text: "Gestion des données"
+      - text: "PSF CREONS"
         href: fr/donnees.qmd
 
       - text: "📚 Bibliographie"
@@ -36,8 +39,8 @@ website:
       - text: "The project"
         href: en/index.qmd
         
-      - text: "Who are we?"
-        href: en/contact.qmd
+      # - text: "Who are we?"
+      #  href: en/contact.qmd
         
       - text: "Methodological framework"
         href: en/about.qmd
@@ -45,7 +48,7 @@ website:
       - text: "GTDID"
         href: en/research.qmd
 
-      - text: "Data Managing"
+      - text: "PSEF CREONS"
         href: en/data.qmd
 
       - text: "📚 Bibliography"
@@ -57,7 +60,7 @@ website:
     ########################################
     right:
       - icon: github
-        href: "https://github.com/UMISOURCE/GTDID"
+        href: "https://github.com/UMISOURCE/CREONS"
         aria-label: "GitHub"
       - text: "🌐 Langue / Language"
         menu:

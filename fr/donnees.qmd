@@ -1,8 +1,8 @@
 ---
-title: "Gestion des données"
+title: "PSF CREONS"
 ---
 
-## Plan de gestion de données
+# Plan structurant de formation - Vers une coopérative de recherche ouverte et équitable Nords-Suds (2024-2027)
 
 ## Dépôt des données
 

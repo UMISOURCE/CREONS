@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -94,10 +114,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Le projet</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../fr/contact.html"> 
-<span class="menu-text">Qui sommes-nous ?</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../fr/about.html"> 
 <span class="menu-text">Cadre méthodologique</span></a>
   </li>  
@@ -118,10 +134,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">The project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../en/contact.html"> 
-<span class="menu-text">Who are we?</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../en/about.html"> 
 <span class="menu-text">Methodological framework</span></a>
   </li>  
@@ -140,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/UMISOURCE/GTDID"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/UMISOURCE/CREONS"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -211,27 +223,27 @@ Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randr
 <a href="https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-autour-de-la-science-ouverte-la-reproductibilite-et-les-partenariats-scientifiques-equitables" class="uri">https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-autour-de-la-science-ouverte-la-reproductibilite-et-les-partenariats-scientifiques-equitables</a></p>
 </section></div><section id="repenser-les-inégalités-scientifiques" class="level2">
 <h2 class="anchored" data-anchor-id="repenser-les-inégalités-scientifiques">Repenser les inégalités scientifiques</h2>
-<p>Les inégalités scientifiques sont souvent étudiées à partir de leurs manifestations les plus visibles : publications, citations, signatures, financements, ou présence dans les revues internationales. Ces indicateurs permettent de documenter la distribution inégale de la production scientifique mondiale, mais ils ne suffisent pas à rendre compte des conditions concrètes dans lesquelles les connaissances sont produites et reconnues (Xie, 2014).</p>
-<p>Les travaux sur les systèmes scientifiques internationaux montrent que certaines institutions et certains pays occupent des positions centrales dans la définition des agendas de recherche, la circulation des résultats et l’accumulation de visibilité académique (Wagner, 2008 ; Losego &amp; Arvanitis, 2008). D’autres recherches ont montré que ces asymétries sont aussi structurées par des hiérarchies disciplinaires, linguistiques et institutionnelles, particulièrement visibles dans les rapports entre Nords et Suds (Keim, 2010 ; Kleiche-Dray, 2018 ; Waast &amp; Gaillard, 2018).</p>
+<p>Les inégalités scientifiques sont souvent étudiées à partir de leurs manifestations les plus visibles : publications, citations, signatures, financements, ou présence dans les revues internationales. Ces indicateurs permettent de documenter la distribution inégale de la production scientifique mondiale, mais ils ne suffisent pas à rendre compte des conditions concrètes dans lesquelles les connaissances sont produites et reconnue <span class="citation" data-cites="xie_undemocracy_2014">(<a href="#ref-xie_undemocracy_2014" role="doc-biblioref">Xie 2014</a>)</span>.</p>
+<p>Les travaux sur les systèmes scientifiques internationaux montrent que certaines institutions et certains pays occupent des positions centrales dans la définition des agendas de recherche, la circulation des résultats et l’accumulation de visibilité académique <span class="citation" data-cites="wagner_new_2008 losego_science_2008">(<a href="#ref-wagner_new_2008" role="doc-biblioref">Wagner 2008</a>; <a href="#ref-losego_science_2008" role="doc-biblioref">Losego and Arvanitis 2008</a>)</span>. D’autres recherches ont montré que ces asymétries sont aussi structurées par des hiérarchies disciplinaires, linguistiques et institutionnelles, particulièrement visibles dans les rapports entre Nords et Suds <span class="citation" data-cites="keim2010 waast2018">(<a href="#ref-keim2010" role="doc-biblioref">Keim 2010</a>; <a href="#ref-waast2018" role="doc-biblioref">Waast and Gaillard 2018</a>)</span>.</p>
 <p>CREONS part de cette littérature, mais propose de déplacer le regard : au lieu d’analyser uniquement les résultats visibles de la science, le projet s’intéresse aux conditions de possibilité du travail scientifique.</p>
 </section>
 <section id="le-travail-scientifique-un-travail-comme-un-autre" class="level2">
 <h2 class="anchored" data-anchor-id="le-travail-scientifique-un-travail-comme-un-autre">Le travail scientifique : un travail comme un autre</h2>
-<p>Dans les collaborations scientifiques internationales, plusieurs travaux suggèrent que les tâches de recherche ne sont pas distribuées de manière neutre. Les chercheur.euse.s situé.e.s dans les institutions les plus dotées occupent plus fréquemment les rôles associés à la conceptualisation, à l’analyse, à la rédaction ou à la publication, tandis que les chercheur.euse.s des espaces moins dotés sont davantage associé.e.s à la collecte des données, à l’accès au terrain ou à la médiation locale (Miao et al., 2024 ; Ralfs et al., 2026).</p>
-<p>Cette organisation renvoie à une division internationale du travail scientifique, déjà identifiée dans les travaux sur la structuration centre-périphérie de la production des savoirs (Shinn, Vellard &amp; Waast, 2010). Dans les sciences sociales, cette division peut prendre la forme d’une séparation entre production empirique localisée et production théorique plus fortement reconnue dans les centres académiques dominants (Keim, 2010).</p>
-<p>CREONS formule donc une hypothèse : les inégalités scientifiques ne tiennent pas seulement aux ressources disponibles ou aux performances mesurables, mais aussi à la manière dont les tâches scientifiques sont réparties, hiérarchisées et converties en reconnaissance académique. Le concept de dirty work permet ici d’interroger les tâches indispensables mais faiblement valorisées dans les organisations de travail (Hughes, 1962).</p>
+<p>Dans les collaborations scientifiques internationales, plusieurs travaux suggèrent que les tâches de recherche ne sont pas distribuées de manière neutre. Les chercheur.euse.s situé.e.s dans les institutions les plus dotées occupent plus fréquemment les rôles associés à la conceptualisation, à l’analyse, à la rédaction ou à la publication, tandis que les chercheur.euse.s des espaces moins dotés sont davantage associé.e.s à la collecte des données, à l’accès au terrain ou à la médiation locale <span class="citation" data-cites="miao2024 ralfs2026">(<a href="#ref-miao2024" role="doc-biblioref">Miao et al. 2024</a>; <a href="#ref-ralfs2026" role="doc-biblioref">Ralfs et al. 2026</a>)</span>.</p>
+<p>Cette organisation renvoie à une division internationale du travail scientifique, déjà identifiée dans les travaux sur la structuration centre-périphérie de la production des savoirs <span class="citation" data-cites="shinn2010">(<a href="#ref-shinn2010" role="doc-biblioref">Shinn, Vellard, and Waast 2010</a>)</span>. Dans les sciences sociales, cette division peut prendre la forme d’une séparation entre production empirique localisée et production théorique plus fortement reconnue dans les centres académiques dominants <span class="citation" data-cites="keim2010">(<a href="#ref-keim2010" role="doc-biblioref">Keim 2010</a>)</span>.</p>
+<p>CREONS formule donc une hypothèse : les inégalités scientifiques ne tiennent pas seulement aux ressources disponibles ou aux performances mesurables, mais aussi à la manière dont les tâches scientifiques sont réparties, hiérarchisées et converties en reconnaissance académique. Le concept de dirty work permet ici d’interroger les tâches indispensables mais faiblement valorisées dans les organisations de travail <span class="citation" data-cites="hughes_good_1962">(<a href="#ref-hughes_good_1962" role="doc-biblioref">Hughes 1962</a>)</span>.</p>
 </section>
 <section id="une-problématique-centrale" class="level2">
 <h2 class="anchored" data-anchor-id="une-problématique-centrale">Une problématique centrale</h2>
-<p>CREONS pose la question suivante : Comment la production des connaissances en sciences sociales et environnementales est-elle organisée à l’échelle internationale, et comment cette organisation contribue-t-elle à produire, transformer ou réduire les inégalités entre chercheur·euse·s, institutions et économies ?</p>
-<p>Cette question s’inscrit dans les débats sur les injustices épistémiques, qui interrogent les conditions dans lesquelles certaines voix, expériences ou formes de savoir sont moins reconnues comme légitimes (Fricker, 2007). Elle dialogue également avec les travaux sur la colonialité des savoirs, qui analysent la persistance de hiérarchies historiques dans la production et la circulation des connaissances (Mignolo, 2009). Elle rejoint enfin les recherches sur les rapports de pouvoir dans les systèmes mondiaux de connaissance, où la reconnaissance scientifique dépend aussi des infrastructures, des langues, des normes éditoriales et des positions institutionnelles (Godrie, 2017 ; Natarajan, Adams &amp; Smith, 2022).</p>
+<p>CREONS pose la question suivante : Comment la production des connaissances en sciences sociales et environnementales est-elle organisée à l’échelle internationale, et comment cette organisation contribue-t-elle à produire, transformer ou réduire les inégalités entre chercheur.euse.s, institutions et économies ?</p>
+<p>Cette question s’inscrit dans les débats sur les injustices épistémiques, qui interrogent les conditions dans lesquelles certaines voix, expériences ou formes de savoir sont moins reconnues comme légitimes <span class="citation" data-cites="fricker2007">(<a href="#ref-fricker2007" role="doc-biblioref">Fricker 2007</a>)</span>. Elle dialogue également avec les travaux sur la colonialité des savoirs, qui analysent la persistance de hiérarchies historiques dans la production et la circulation des connaissances <span class="citation" data-cites="mignolo2009">(<a href="#ref-mignolo2009" role="doc-biblioref">Mignolo 2009</a>)</span>. Elle rejoint enfin les recherches sur les rapports de pouvoir dans les systèmes mondiaux de connaissance, où la reconnaissance scientifique dépend aussi des infrastructures, des langues, des normes éditoriales et des positions institutionnelles <span class="citation" data-cites="natarajan2022 godrie2017">(<a href="#ref-natarajan2022" role="doc-biblioref">Natarajan et al. 2022</a>; <a href="#ref-godrie2017" role="doc-biblioref">Godrie 2017</a>)</span>.</p>
 <p>ajouter JP Olivier de Sardan sa critique sur ça et sa thèse sur la position des institutions finalement.</p>
 </section>
 <section id="trois-transformations-au-coeur-du-projet" class="level2">
 <h2 class="anchored" data-anchor-id="trois-transformations-au-coeur-du-projet">Trois transformations au coeur du projet</h2>
-<p><strong>Axe 1. Comment se construisent les capacités scientifiques ?</strong> CREONS place la construction des capacités scientifiques au cœur de son premier axe (Sen, 1999). Dans une perspective d’économie politique du développement, le projet analyse le travail scientifique comme un processus d’accumulation de capacités : il ne s’agit pas seulement d’identifier les ressources formelles dont disposent les chercheur.euse.s, mais d’étudier ce qu’ils et elles sont effectivement en mesure de produire dans des environnements scientifiques différenciés. CREONS interroge ainsi l’hypothèse selon laquelle l’accès inégal aux financements, à l’encadrement, aux infrastructures, aux ressources documentaires, aux réseaux, aux langues académiques et aux espaces de publication peut générer des contraintes cumulatives, des effets de seuil ou des trappes de faible capacité scientifique (Azariadis &amp; Stachurski, 2005 ; Bowles, Durlauf &amp; Hoff, 2011). À partir des trajectoires doctorales, des expériences de terrain et des conditions concrètes du travail de recherche, le projet étudie comment ces capacités se forment, se transforment ou se bloquent aux niveaux des chercheur.euse.s, des institutions et des systèmes scientifiques. (Mathieu, Rihi, Massera et al., 2024).</p>
-<p><strong>Axe 2. La science ouverte peut-elle réduire les asymétries scientifiques ?</strong> La science ouverte occupe une place centrale dans CREONS, car elle touche directement aux conditions de production, de vérification, de circulation et de réutilisation des connaissances. En élargissant l’accès aux publications, aux données, aux codes, aux méthodes et aux infrastructures de recherche, elle peut constituer un levier majeur de renforcement des capacités scientifiques, en particulier dans les contextes où l’accès aux ressources scientifiques demeure contraint (UNESCO, 2021). Mais cette promesse doit être étudiée empiriquement : produire des données ouvertes, documenter un code, déposer des matériaux, rendre une recherche reproductible ou s’approprier des infrastructures ouvertes suppose du temps, des compétences, des équipements et des appuis institutionnels qui restent inégalement distribués, notamment dans les Suds (Mwelwa et al., 2020). CREONS interroge ainsi la science ouverte non comme un simple principe de diffusion, mais comme une transformation possible des capacités scientifiques : dans quelles conditions permet-elle d’accroître l’autonomie, la reconnaissance et la participation des chercheur.euse.s à la production internationale des savoirs, et dans quelles situations risque-t-elle au contraire de déplacer ou de renforcer certaines asymétries de dépendance, de visibilité et de reconnaissance scientifique (Godrie, 2017 ; Natarajan, Adams &amp; Smith, 2022 ; Mathieu et al., 2024) ?</p>
-<p><strong>Axe 3. L’intelligence artificielle transforme-t-elle les rapports de production scientifique ?</strong> Les travaux sur le changement technologique montrent que l’automatisation transforme moins les emplois que les tâches qui les composent, à travers des effets de déplacement, de complémentarité et de création de nouvelles activités (Autor, Levy &amp; Murnane, 2003 ; Acemoglu &amp; Restrepo, 2019). CREONS applique cette approche au travail scientifique, en étudiant comment l’intelligence artificielle générative intervient déjà dans la recherche bibliographique, la traduction, la rédaction, la programmation, l’analyse, la synthèse ou la visualisation (Eloundou et al., 2024 ; Gao &amp; Wang, 2024). Le projet interroge ainsi le degré auquel l’IA renforce ou fragilise les capacités scientifiques des chercheur.euse.s : produit-elle principalement des gains d’accès, de productivité et d’autonomie, ou contribue-t-elle aussi à redistribuer les tâches, transformer les compétences valorisées, affecter les pratiques de validation et reconfigurer les dépendances technologiques, cognitives et épistémiques ? Cette question est d’autant plus importante que l’accès aux infrastructures numériques, aux plateformes, aux compétences et aux corpus d’entraînement demeure inégalement réparti (Bianchini, Müller &amp; Pelletier, 2022 ; Schlagwein, 2023 ; Renkema &amp; Tursunbayeva, 2024 ; Capraro et al., 2024 ; Liu, Huang &amp; Wang, 2025).</p>
+<p><strong>Axe 1. Comment se construisent les capacités scientifiques ?</strong> CREONS place la construction des capacités scientifiques au cœur de son premier axe <span class="citation" data-cites="sen_development_2001">(<a href="#ref-sen_development_2001" role="doc-biblioref">Sen 2001</a>)</span>. Dans une perspective d’économie politique du développement, le projet analyse le travail scientifique comme un processus d’accumulation de capacités : il ne s’agit pas seulement d’identifier les ressources formelles dont disposent les chercheur.euse.s, mais d’étudier ce qu’ils et elles sont effectivement en mesure de produire dans des environnements scientifiques différenciés. CREONS interroge ainsi l’hypothèse selon laquelle l’accès inégal aux financements, à l’encadrement, aux infrastructures, aux ressources documentaires, aux réseaux, aux langues académiques et aux espaces de publication peut générer des contraintes cumulatives, des effets de seuil ou des trappes de faible capacité scientifique <span class="citation" data-cites="azariadis_stachurski_2005">(<a href="#ref-azariadis_stachurski_2005" role="doc-biblioref">Azariadis and Stachurski 2005</a>)</span> (Azariadis &amp; Stachurski, 2005 ; Bowles, Durlauf &amp; Hoff, 2011). À partir des trajectoires doctorales, des expériences de terrain et des conditions concrètes du travail de recherche, le projet étudie comment ces capacités se forment, se transforment ou se bloquent aux niveaux des chercheur.euse.s, des institutions et des systèmes scientifiques <span class="citation" data-cites="mathieu_egalites_2025">(<a href="#ref-mathieu_egalites_2025" role="doc-biblioref">Mathieu et al. 2025</a>)</span>.</p>
+<p><strong>Axe 2. La science ouverte peut-elle réduire les asymétries scientifiques ?</strong> La science ouverte occupe une place centrale dans CREONS, car elle touche directement aux conditions de production, de vérification, de circulation et de réutilisation des connaissances. En élargissant l’accès aux publications, aux données, aux codes, aux méthodes et aux infrastructures de recherche, elle peut constituer un levier majeur de renforcement des capacités scientifiques, en particulier dans les contextes où l’accès aux ressources scientifiques demeure contraint <span class="citation" data-cites="unesco_unesco_2021">(<a href="#ref-unesco_unesco_2021" role="doc-biblioref">UNESCO 2021</a>)</span>. Mais cette promesse doit être étudiée empiriquement : produire des données ouvertes, documenter un code, déposer des matériaux, rendre une recherche reproductible ou s’approprier des infrastructures ouvertes suppose du temps, des compétences, des équipements et des appuis institutionnels qui restent inégalement distribués, notamment dans les Suds <span class="citation" data-cites="mwelwa2020">(<a href="#ref-mwelwa2020" role="doc-biblioref">Mwelwa et al. 2020</a>)</span>. CREONS interroge ainsi la science ouverte non comme un simple principe de diffusion, mais comme une transformation possible des capacités scientifiques : dans quelles conditions permet-elle d’accroître l’autonomie, la reconnaissance et la participation des chercheur.euse.s à la production internationale des savoirs, et dans quelles situations risque-t-elle au contraire de déplacer ou de renforcer certaines asymétries de dépendance, de visibilité et de reconnaissance scientifique ?</p>
+<p><strong>Axe 3. L’intelligence artificielle transforme-t-elle les rapports de production scientifique ?</strong> Les travaux sur le changement technologique montrent que l’automatisation transforme moins les emplois que les tâches qui les composent, à travers des effets de déplacement, de complémentarité et de création de nouvelles activités <span class="citation" data-cites="autor_murnane_2003 acemoglu_restrepo_2019">(<a href="#ref-autor_murnane_2003" role="doc-biblioref">Autor, Levy, and Murnane 2003</a>; <a href="#ref-acemoglu_restrepo_2019" role="doc-biblioref">Acemoglu and Restrepo 2019</a>)</span>. CREONS applique cette approche au travail scientifique, en étudiant comment l’intelligence artificielle générative intervient déjà dans la recherche bibliographique, la traduction, la rédaction, la programmation, l’analyse, la synthèse ou la visualisation <span class="citation" data-cites="doi:eloundou_manning_2024 gao_quantifying_2024">(<a href="#ref-doi:eloundou_manning_2024" role="doc-biblioref">Eloundou et al. 2024</a>; <a href="#ref-gao_quantifying_2024" role="doc-biblioref">Gao and Wang 2024</a>)</span>. Le projet interroge ainsi le degré auquel l’IA renforce ou fragilise les capacités scientifiques des chercheur.euse.s : produit-elle principalement des gains d’accès, de productivité et d’autonomie, ou contribue-t-elle aussi à redistribuer les tâches, transformer les compétences valorisées, affecter les pratiques de validation et reconfigurer les dépendances technologiques, cognitives et épistémiques ? Cette question est d’autant plus importante que l’accès aux infrastructures numériques, aux plateformes, aux compétences et aux corpus d’entraînement demeure inégalement réparti <span class="citation" data-cites="bianchini_muller_2022 schlagwein_chatgpt_2023 renkema_tursunbayeva_2024 liu_who_2026">(<a href="#ref-bianchini_muller_2022" role="doc-biblioref">Bianchini, Müller, and Pelletier 2022</a>; <a href="#ref-schlagwein_chatgpt_2023" role="doc-biblioref">Schlagwein and Willcocks 2023</a>; <a href="#ref-renkema_tursunbayeva_2024" role="doc-biblioref">Renkema and Tursunbayeva 2024</a>; <a href="#ref-liu_who_2026" role="doc-biblioref">Liu and Wang 2026</a>)</span>.</p>
 </section>
 <section id="entre-économie-politique-du-chiffre-et-économie-politique-des-sciences" class="level2">
 <h2 class="anchored" data-anchor-id="entre-économie-politique-du-chiffre-et-économie-politique-des-sciences">Entre économie politique du chiffre et économie politique des sciences</h2>
@@ -239,7 +251,7 @@ Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randr
 </section>
 <section id="un-projet-scientifique-un-espace-de-coopération" class="level2">
 <h2 class="anchored" data-anchor-id="un-projet-scientifique-un-espace-de-coopération">Un projet scientifique, un espace de coopération</h2>
-<p>CREONS se situe à l’articulation entre recherche empirique, économie politique des sciences et diplomatie scientifique (Royal Society &amp; AAAS, 2009). En Afrique et en Europe, il s’inscrit dans un contexte où la diplomatie scientifique est mobilisée pour répondre aux asymétries de recherche, construire des partenariats équitables avec les Suds et mieux intégrer l’expertise locale aux défis globaux (European Framework for Science Diplomacy, 2025 ; Conseil européen, 2026), en écho aux principes de la Charte africaine pour des collaborations de recherche transformatrices sur le rééquilibrage des partenariats Nords-Suds (Charte africaine pour des collaborations de recherche transformatrices, 2023).</p>
+<p>CREONS se situe à l’articulation entre recherche empirique, économie politique des sciences et diplomatie scientifique <span class="citation" data-cites="royal_society__aaas_new_2009">(<a href="#ref-royal_society__aaas_new_2009" role="doc-biblioref">AAAS 2009</a>)</span>. En Afrique et en Europe, il s’inscrit dans un contexte où la diplomatie scientifique est mobilisée pour répondre aux asymétries de recherche, construire des partenariats équitables avec les Suds et mieux intégrer l’expertise locale aux défis globaux <span class="citation" data-cites="european_commission_directorate_general_for_research_and_innovation_european_2025">(<a href="#ref-european_commission_directorate_general_for_research_and_innovation_european_2025" role="doc-biblioref">European Commission. Directorate General for Research and Innovation. 2025</a>)</span>, en écho aux principes de la Charte africaine pour des collaborations de recherche transformatrices sur le rééquilibrage des partenariats Nords-Suds <span class="citation" data-cites="perivoli-africaresearchcenter2025">(<a href="#ref-perivoli-africaresearchcenter2025" role="doc-biblioref">Perivoli - Africa Research Center 2025</a>)</span>.</p>
 <p>À partir d’enquêtes, de comparaisons internationales et d’analyses institutionnelles, CREONS vise à produire des outils concrets pour analyser, concevoir et évaluer des partenariats scientifiques, notamment entre l’Europe et l’Afrique. Il s’agit de documenter les asymétries de ressources, d’infrastructures, de mobilité, de reconnaissance et de capacités institutionnelles afin d’appuyer des coopérations plus équilibrées, efficaces et durables.</p>
 </section>
 <section id="une-articulation-forte-avec-les-projets-structurants-de-lumi-source" class="level2">
@@ -251,9 +263,98 @@ Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randr
 </ul>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-royal_society__aaas_new_2009" class="csl-entry" role="listitem">
+AAAS, Royal Society &amp;. 2009. <span>“New <span>Frontiers</span> in <span>Science</span> <span>Diplomacy</span>: <span>Navigating</span> the <span>Changing</span> <span>Balance</span> of <span>Power</span>.”</span> The Royal Society / American Association for the Advancement of Science.
+</div>
+<div id="ref-acemoglu_restrepo_2019" class="csl-entry" role="listitem">
+Acemoglu, Daron, and Pascual Restrepo. 2019. <span>“Automation and New Tasks: How Technology Displaces and Reinstates Labor.”</span> <em>Journal of Economic Perspectives</em> 33 (2): 3–30. <a href="https://EconPapers.repec.org/RePEc:aea:jecper:v:33:y:2019:i:2:p:3-30">https://EconPapers.repec.org/RePEc:aea:jecper:v:33:y:2019:i:2:p:3-30</a>.
+</div>
+<div id="ref-autor_murnane_2003" class="csl-entry" role="listitem">
+Autor, David, Frank Levy, and Richard Murnane. 2003. <span>“The Skill Content of Recent Technological Change: An Empirical Exploration.”</span> <em>The Quarterly Journal of Economics</em> 118 (4): 1279–1333. <a href="https://EconPapers.repec.org/RePEc:oup:qjecon:v:118:y:2003:i:4:p:1279-1333.">https://EconPapers.repec.org/RePEc:oup:qjecon:v:118:y:2003:i:4:p:1279-1333.</a>
+</div>
+<div id="ref-azariadis_stachurski_2005" class="csl-entry" role="listitem">
+Azariadis, Costas, and John Stachurski. 2005. <span>“Poverty Traps.”</span> In <em>Handbook of Economic Growth</em>, edited by Philippe Aghion and Steven Durlauf, 1st ed. Vol. 1, Part A. Elsevier. <a href="https://EconPapers.repec.org/RePEc:eee:grochp:1-05">https://EconPapers.repec.org/RePEc:eee:grochp:1-05</a>.
+</div>
+<div id="ref-bianchini_muller_2022" class="csl-entry" role="listitem">
+Bianchini, Stefano, Moritz Müller, and Pierre Pelletier. 2022. <span>“Artificial Intelligence in Science: An Emerging General Method of Invention.”</span> <em>Research Policy</em> 51 (10): S0048733322001275. <a href="https://EconPapers.repec.org/RePEc:eee:respol:v:51:y:2022:i:10:s0048733322001275">https://EconPapers.repec.org/RePEc:eee:respol:v:51:y:2022:i:10:s0048733322001275</a>.
+</div>
+<div id="ref-doi:eloundou_manning_2024" class="csl-entry" role="listitem">
+Eloundou, Tyna, Sam Manning, Pamela Mishkin, and Daniel Rock. 2024. <span>“GPTs Are GPTs: Labor Market Impact Potential of LLMs.”</span> <em>Science</em> 384 (6702): 1306–8. <a href="https://doi.org/10.1126/science.adj0998">https://doi.org/10.1126/science.adj0998</a>.
+</div>
+<div id="ref-european_commission_directorate_general_for_research_and_innovation_european_2025" class="csl-entry" role="listitem">
+European Commission. Directorate General for Research and Innovation. 2025. <em>A <span>European</span> Framework for Science Diplomacy: Recommendations of the <span>EU</span> <span>Science</span> <span>Diplomacy</span> <span>Working</span> <span>Groups</span>.</em> LU: Publications Office. <a href="https://data.europa.eu/doi/10.2777/9235330">https://data.europa.eu/doi/10.2777/9235330</a>.
+</div>
+<div id="ref-fricker2007" class="csl-entry" role="listitem">
+Fricker, Miranda. 2007. <em>Epistemic Injustice : Power and the Ethics of Knowing</em>. Oxford Academic. Oxford University Press. <a href="https://doi.org/10.1093/acprof:oso/9780198237907.001.0001">https://doi.org/10.1093/acprof:oso/9780198237907.001.0001</a>.
+</div>
+<div id="ref-gao_quantifying_2024" class="csl-entry" role="listitem">
+Gao, Jian, and Dashun Wang. 2024. <span>“Quantifying the Use and Potential Benefits of Artificial Intelligence in Scientific Research.”</span> <em>Nature Human Behaviour</em> 8 (12): 2281–92. <a href="https://doi.org/10.1038/s41562-024-02020-5">https://doi.org/10.1038/s41562-024-02020-5</a>.
+</div>
+<div id="ref-godrie2017" class="csl-entry" role="listitem">
+Godrie, Baptiste. 2017. <span>“Épistémologies Du <span>Sud</span> Et Militantisme Académique: <span>Entretien</span> Avec <span>Boaventura</span> de <span>Sousa</span> <span>Santos</span>, Réalisé Par <span>Baptiste</span> <span>Godrie</span>.”</span> <em>Sociologie Et Sociétés</em> 49 (1): 143. <a href="https://doi.org/10.7202/1042809ar">https://doi.org/10.7202/1042809ar</a>.
+</div>
+<div id="ref-hughes_good_1962" class="csl-entry" role="listitem">
+Hughes, Everett C. 1962. <span>“Good <span>People</span> and <span>Dirty</span> <span>Work</span>.”</span> <em>Social Problems</em> 10 (1): 3–11. <a href="https://doi.org/10.2307/799402">https://doi.org/10.2307/799402</a>.
+</div>
+<div id="ref-keim2010" class="csl-entry" role="listitem">
+Keim, Wiebke. 2010. <span>“Analyse Des Invitations de Chercheurs Étrangers Par l<span>’</span>EHESS: Compétences Reconnues Et Clivages Nord-Sud.”</span> <em>Cres</em>, no. 9: 3352. <a href="https://doi.org/10.4000/cres.346">https://doi.org/10.4000/cres.346</a>.
+</div>
+<div id="ref-liu_who_2026" class="csl-entry" role="listitem">
+Liu, Yan, and He Wang. 2026. <span>“Who on Earth Is Using <span>Generative</span> <span>AI</span>?”</span> <em>World Development</em> 199 (March): 107260. <a href="https://doi.org/10.1016/j.worlddev.2025.107260">https://doi.org/10.1016/j.worlddev.2025.107260</a>.
+</div>
+<div id="ref-losego_science_2008" class="csl-entry" role="listitem">
+Losego, Philippe, and Rigas Arvanitis. 2008. <span>“La Science Dans Les Pays Non Hégémoniques.”</span> <em>Revue d’anthropologie Des Connaissances</em> 2 (3). <a href="https://doi.org/10.3917/rac.005.0334">https://doi.org/10.3917/rac.005.0334</a>.
+</div>
+<div id="ref-mathieu_egalites_2025" class="csl-entry" role="listitem">
+Mathieu, Alexandre, Yanis Rihi, Marta Massera, Lenaïg Moign, Mouhamadou Mansour Nguirane, Ephigénie Mackane Madioune, Miahy Ny Fanantenana Randriantseheno, and Loïc Pian. 2025. <span>“Inégalités Doctorales Entre Les <span>Nords</span> Et Les <span>Suds</span> : <span>Revue</span> de Littérature.”</span> In <em>Études Doctorales Africaines : <span>Diversité</span> de Situations Et Enjeux Communs</em>. <a href="https://halshs-05382241">halshs-05382241</a>.
+</div>
+<div id="ref-miao2024" class="csl-entry" role="listitem">
+Miao, Lili, Vincent Larivière, Byungkyu Lee, Yong-Yeol Ahn, and Cassidy R. Sugimoto. 2024. <span>“Persistent Hierarchy in Contemporary International Collaboration.”</span> <a href="https://doi.org/10.48550/ARXIV.2410.13020">https://doi.org/10.48550/ARXIV.2410.13020</a>.
+</div>
+<div id="ref-mignolo2009" class="csl-entry" role="listitem">
+Mignolo, Walter D. 2009. <span>“Epistemic Disobedience, Independent Thought and Decolonial Freedom.”</span> <em>Theory, Culture &amp; Society</em> 26 (7-8): 159181. <a href="https://doi.org/10.1177/0263276409349275">https://doi.org/10.1177/0263276409349275</a>.
+</div>
+<div id="ref-mwelwa2020" class="csl-entry" role="listitem">
+Mwelwa, Joseph, Geoffrey Boulton, Joseph Muliaro Wafula, and Cheikh Loucoubar. 2020. <span>“Developing Open Science in Africa: Barriers, Solutions and Opportunities.”</span> <em>Data Science Journal</em> 19 (1): 31. <a href="https://doi.org/10.5334/dsj-2020-031">https://doi.org/10.5334/dsj-2020-031</a>.
+</div>
+<div id="ref-natarajan2022" class="csl-entry" role="listitem">
+Natarajan, Nithya, Andrew Newsham, Jonathan Rigg, and Diana Suhardiman. 2022. <span>“A Sustainable Livelihoods Framework for the 21st Century.”</span> <em>World Development</em> 155 (July): 105898. <a href="https://doi.org/10.1016/j.worlddev.2022.105898">https://doi.org/10.1016/j.worlddev.2022.105898</a>.
+</div>
+<div id="ref-perivoli-africaresearchcenter2025" class="csl-entry" role="listitem">
+Perivoli - Africa Research Center. 2025. <span>“Africa Charter for Transformation Research Collaborations.”</span> <a href="https://parc.bristol.ac.uk/africa-charter/">https://parc.bristol.ac.uk/africa-charter/</a>.
+</div>
+<div id="ref-ralfs2026" class="csl-entry" role="listitem">
+Ralfs, Annika, Vinicius Muraro, Alysson Mazoni, and Pauline Mattsson. 2026. <span>“Bridging the Divide? Labor Division and Researcher Mobility in International Collaboration.”</span> <em>Quantitative Science Studies</em> 7: 99–118. <a href="https://doi.org/10.1162/QSS.a.402">https://doi.org/10.1162/QSS.a.402</a>.
+</div>
+<div id="ref-renkema_tursunbayeva_2024" class="csl-entry" role="listitem">
+Renkema, Maarten, and Aizhan Tursunbayeva. 2024. <span>“The Future of Work of Academics in the Age of Artificial Intelligence: State-of-the-Art and a Research Roadmap.”</span> <em>Futures</em> 163: 103453. https://doi.org/<a href="https://doi.org/10.1016/j.futures.2024.103453">https://doi.org/10.1016/j.futures.2024.103453</a>.
+</div>
+<div id="ref-schlagwein_chatgpt_2023" class="csl-entry" role="listitem">
+Schlagwein, Daniel, and Leslie Willcocks. 2023. <span>“<span>‘<span>ChatGPT</span> Et Al.’</span>: <span>The</span> Ethics of Using (Generative) Artificial Intelligence in Research and Science.”</span> <em>Journal of Information Technology</em> 38 (3): 232–38. <a href="https://doi.org/10.1177/02683962231200411">https://doi.org/10.1177/02683962231200411</a>.
+</div>
+<div id="ref-sen_development_2001" class="csl-entry" role="listitem">
+Sen, Amartya. 2001. <em>Development as Freedom</em>. 1. ed., 6th print. Borzoi <span>Book</span>. New York: Alfred A. Knopf.
+</div>
+<div id="ref-shinn2010" class="csl-entry" role="listitem">
+Shinn, Terry, Dominique Vellard, and Roland Waast. 2010. <span>“Introduction : La Recherche Au Nord Et Au Sud : Coopérations Et Division Du Travail.”</span> <em>Cres</em>, no. 9: 731. <a href="https://doi.org/10.4000/cres.342">https://doi.org/10.4000/cres.342</a>.
+</div>
+<div id="ref-unesco_unesco_2021" class="csl-entry" role="listitem">
+UNESCO. 2021. <span>“<span>UNESCO</span> <span>Recommendation</span> on <span>Open</span> <span>Science</span>.”</span> UNESCO. <a href="https://doi.org/10.54677/MNMH8546">https://doi.org/10.54677/MNMH8546</a>.
+</div>
+<div id="ref-waast2018" class="csl-entry" role="listitem">
+Waast, Roland, and Jacques Gaillard. 2018. <span>“L<span>’</span>afrique Entre Sciences Nationales Et Marché International Du Travail Scientifique.”</span> <em>Les Ancrages Nationaux de La Science Mondiale XVIIIe-XXe Siècles. Paris: IRD Éditions Et Éditions Des Archives Contemporaines</em>, 6797.
+</div>
+<div id="ref-wagner_new_2008" class="csl-entry" role="listitem">
+Wagner, Caroline S. 2008. <em>The New Invisible College: Science for Development</em>. Washington, D.C: Brookings institution press.
+</div>
+<div id="ref-xie_undemocracy_2014" class="csl-entry" role="listitem">
+Xie, Yu. 2014. <span>“<span>‘<span>Undemocracy</span>’</span>: Inequalities in Science.”</span> <em>Science</em> 344 (6186): 809–10. <a href="https://doi.org/10.1126/science.1252743">https://doi.org/10.1126/science.1252743</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script src="../lang.js"></script>
 
 
