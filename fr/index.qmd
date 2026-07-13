@@ -1,5 +1,5 @@
 ---
-title: "Groupe de travail sur les disparités et inégalités doctorales (GTDID)"
+title: "CREONS - Vers une communauté de recherche équitable et ouverte Nords-Suds"
 format:
   html:
     page-layout: article
@@ -11,38 +11,72 @@ format:
 ### 📰 Actualités
 
 **📊 Nouveau jeu de données**\
-Faye, D. B., Madioune, E. M., Nguirane, M. M., Randrianandrasana, R. A., Mathieu, A., Pian, L., Rihi, Y., & Santini, S. (2026). *DWISE - Doctoral Work and Inequalities in Scientific Ecosystems*. DataSuds, V1. [https://doi.org/10.23708/ZRDYJU](https://doi.org/10.23708/ZRDYJU)
-
+Faye, D. B., Madioune, E. M., Nguirane, M. M., Randrianandrasana, R. A., Mathieu, A., Pian, L., Rihi, Y., & Santini, S. (2026). *DWISE - Doctoral Work and Inequalities in Scientific Ecosystems*. DataSuds, V1. <https://doi.org/10.23708/ZRDYJU>
 
 **📘 Nouvelle publication**\
 Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randriantseheno, M., Pian, L. (décembre 2025). "Inégalités doctorales entre les Nords et les Suds : Revue de littérature" in *Études doctorales africaines. Diversité de situations et enjeux communs*. Éditions IRD & African Minds.
 
----
+------------------------------------------------------------------------
 
-**🌍 PSF CREONS - Formation internationale**  
-📅 **26 mai 2026 - 05 juin 2026** - UVSQ  
+**🌍 PSF CREONS - Formation internationale**\
+📅 **26 mai 2026 - 05 juin 2026** - UVSQ\
 10 jours de formations consacrés à la science ouverte, à la reproductibilité et aux partenariats scientifiques équitables entre Nords et Suds.
 
-👉 Plus d’informations :  
+👉 Plus d’informations :\
 <https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-autour-de-la-science-ouverte-la-reproductibilite-et-les-partenariats-scientifiques-equitables>
 :::
 
-## Inégalités de recherche entre les Nords et les Suds
+## Repenser les inégalités scientifiques
 
-Le Groupe de travail sur les disparités et inégalités doctorales (GTDID) réunit des doctorant.e.s, chercheur.euse.s, enseignant.e.s-chercheur.euse.s et appui.e.s à la recherche, membres ou associé.e.s à l'Unité Mixte Internationale Soutenabilité et Résilience - UMI SOURCE (Université Paris-Saclay, UVSQ, IRD), issues de ses antennes en Côte d'Ivoire, France, Madagascar et Sénégal.
+Les inégalités scientifiques sont souvent étudiées à partir de leurs manifestations les plus visibles : publications, citations, signatures, financements, ou présence dans les revues internationales. Ces indicateurs permettent de documenter la distribution inégale de la production scientifique mondiale, mais ils ne suffisent pas à rendre compte des conditions concrètes dans lesquelles les connaissances sont produites et reconnues (Xie, 2014).
 
-Cette initiative vise à documenter et analyser les inégalités dans la recherche scientifique, avec un accent particulier sur les disparités entre les Nords et les Suds. L'objectif central du GTDID est d’examiner les inégalités doctorales afin de répondre à une question essentielle : comment mener des recherches robustes dans des contextes structurellement inégaux ?
+Les travaux sur les systèmes scientifiques internationaux montrent que certaines institutions et certains pays occupent des positions centrales dans la définition des agendas de recherche, la circulation des résultats et l’accumulation de visibilité académique (Wagner, 2008 ; Losego & Arvanitis, 2008). D’autres recherches ont montré que ces asymétries sont aussi structurées par des hiérarchies disciplinaires, linguistiques et institutionnelles, particulièrement visibles dans les rapports entre Nords et Suds (Keim, 2010 ; Kleiche-Dray, 2018 ; Waast & Gaillard, 2018).
 
-## Science ouverte et souveraineté scientifique
+CREONS part de cette littérature, mais propose de déplacer le regard : au lieu d’analyser uniquement les résultats visibles de la science, le projet s’intéresse aux conditions de possibilité du travail scientifique.
 
-Le GTDID interroge le rôle de la science ouverte comme possible rempart aux asymétries scientifiques. Alors qu'elle est souvent présentée comme un instrument de démocratisation de la recherche, la science ouverte nécessite aussi des ressources, des infrastructures et des compétences qui font défaut dans de nombreux contextes des Suds - au risque de reproduire les dépendances et les vulnérabilités existantes.
+## Le travail scientifique : un travail comme un autre
+
+Dans les collaborations scientifiques internationales, plusieurs travaux suggèrent que les tâches de recherche ne sont pas distribuées de manière neutre. Les chercheur.euse.s situé.e.s dans les institutions les plus dotées occupent plus fréquemment les rôles associés à la conceptualisation, à l’analyse, à la rédaction ou à la publication, tandis que les chercheur.euse.s des espaces moins dotés sont davantage associé.e.s à la collecte des données, à l’accès au terrain ou à la médiation locale (Miao et al., 2024 ; Ralfs et al., 2026).
+
+Cette organisation renvoie à une division internationale du travail scientifique, déjà identifiée dans les travaux sur la structuration centre-périphérie de la production des savoirs (Shinn, Vellard & Waast, 2010). Dans les sciences sociales, cette division peut prendre la forme d’une séparation entre production empirique localisée et production théorique plus fortement reconnue dans les centres académiques dominants (Keim, 2010).
+
+CREONS formule donc une hypothèse : les inégalités scientifiques ne tiennent pas seulement aux ressources disponibles ou aux performances mesurables, mais aussi à la manière dont les tâches scientifiques sont réparties, hiérarchisées et converties en reconnaissance académique. Le concept de dirty work permet ici d’interroger les tâches indispensables mais faiblement valorisées dans les organisations de travail (Hughes, 1962).
+
+## Une problématique centrale
+
+CREONS pose la question suivante : Comment la production des connaissances en sciences sociales et environnementales est-elle organisée à l’échelle internationale, et comment cette organisation contribue-t-elle à produire, transformer ou réduire les inégalités entre chercheur·euse·s, institutions et économies ?
+
+Cette question s’inscrit dans les débats sur les injustices épistémiques, qui interrogent les conditions dans lesquelles certaines voix, expériences ou formes de savoir sont moins reconnues comme légitimes (Fricker, 2007). Elle dialogue également avec les travaux sur la colonialité des savoirs, qui analysent la persistance de hiérarchies historiques dans la production et la circulation des connaissances (Mignolo, 2009). Elle rejoint enfin les recherches sur les rapports de pouvoir dans les systèmes mondiaux de connaissance, où la reconnaissance scientifique dépend aussi des infrastructures, des langues, des normes éditoriales et des positions institutionnelles (Godrie, 2017 ; Natarajan, Adams & Smith, 2022).
+
+ajouter JP Olivier de Sardan sa critique sur ça et sa thèse sur la position des institutions finalement.
+
+## Trois transformations au coeur du projet
+
+**1. Comment se construisent les capacités scientifiques ?**
+CREONS place la construction des capacités scientifiques au cœur de son premier axe (Sen, 1999). Dans une perspective d’économie politique du développement, le projet analyse le travail scientifique comme un processus d’accumulation de capacités : il ne s’agit pas seulement d’identifier les ressources formelles dont disposent les chercheur.euse.s, mais d’étudier ce qu’ils et elles sont effectivement en mesure de produire dans des environnements scientifiques différenciés. CREONS interroge ainsi l’hypothèse selon laquelle l’accès inégal aux financements, à l’encadrement, aux infrastructures, aux ressources documentaires, aux réseaux, aux langues académiques et aux espaces de publication peut générer des contraintes cumulatives, des effets de seuil ou des trappes de faible capacité scientifique (Azariadis & Stachurski, 2005 ; Bowles, Durlauf & Hoff, 2011). À partir des trajectoires doctorales, des expériences de terrain et des conditions concrètes du travail de recherche, le projet étudie comment ces capacités se forment, se transforment ou se bloquent aux niveaux des chercheur.euse.s, des institutions et des systèmes scientifiques. (Mathieu, Rihi, Massera et al., 2024).
+
+**2.  La science ouverte peut-elle réduire les asymétries scientifiques ?**
+La science ouverte occupe une place centrale dans CREONS, car elle touche directement aux conditions de production, de vérification, de circulation et de réutilisation des connaissances. En élargissant l’accès aux publications, aux données, aux codes, aux méthodes et aux infrastructures de recherche, elle peut constituer un levier majeur de renforcement des capacités scientifiques, en particulier dans les contextes où l’accès aux ressources scientifiques demeure contraint (UNESCO, 2021). Mais cette promesse doit être étudiée empiriquement : produire des données ouvertes, documenter un code, déposer des matériaux, rendre une recherche reproductible ou s’approprier des infrastructures ouvertes suppose du temps, des compétences, des équipements et des appuis institutionnels qui restent inégalement distribués, notamment dans les Suds (Mwelwa et al., 2020). CREONS interroge ainsi la science ouverte non comme un simple principe de diffusion, mais comme une transformation possible des capacités scientifiques : dans quelles conditions permet-elle d’accroître l’autonomie, la reconnaissance et la participation des chercheur.euse.s à la production internationale des savoirs, et dans quelles situations risque-t-elle au contraire de déplacer ou de renforcer certaines asymétries de dépendance, de visibilité et de reconnaissance scientifique (Godrie, 2017 ; Natarajan, Adams & Smith, 2022 ; Mathieu et al., 2024) ?
+
+
+**3.  L'intelligence artificielle transforme-t-elle les rapports de production scientifique ?** 
+Les travaux sur le changement technologique montrent que l’automatisation transforme moins les emplois que les tâches qui les composent, à travers des effets de déplacement, de complémentarité et de création de nouvelles activités (Autor, Levy & Murnane, 2003 ; Acemoglu & Restrepo, 2019). CREONS applique cette approche au travail scientifique, en étudiant comment l’intelligence artificielle générative intervient déjà dans la recherche bibliographique, la traduction, la rédaction, la programmation, l’analyse, la synthèse ou la visualisation (Eloundou et al., 2024 ; Gao & Wang, 2024). Le projet interroge ainsi le degré auquel l’IA renforce ou fragilise les capacités scientifiques des chercheur.euse.s : produit-elle principalement des gains d’accès, de productivité et d’autonomie, ou contribue-t-elle aussi à redistribuer les tâches, transformer les compétences valorisées, affecter les pratiques de validation et reconfigurer les dépendances technologiques, cognitives et épistémiques ? Cette question est d’autant plus importante que l’accès aux infrastructures numériques, aux plateformes, aux compétences et aux corpus d’entraînement demeure inégalement réparti (Bianchini, Müller & Pelletier, 2022 ; Schlagwein, 2023 ; Renkema & Tursunbayeva, 2024 ; Capraro et al., 2024 ; Liu, Huang & Wang, 2025).
+
+## Entre économie politique du chiffre et économie politique des sciences
+
+CREONS vise à développer une approche originale d’économie politique des sciences, en analysant la production des connaissances comme un processus de travail organisé. Cette perspective articule l’étude des conditions concrètes de production des données (terrain, collecte, nettoyage, etc.) et celle des mécanismes par lesquels ces tâches sont transformées, ou non, en publications, visibilité et reconnaissance académique. L’hypothèse étant que les inégalités scientifiques ne se jouent pas seulement dans les ressources disponibles ou les résultats mesurables, mais aussi dans la chaîne de production des savoirs : dans la répartition des tâches, le contrôle des données, les infrastructures de publication et la conversion différenciée du travail scientifique en capital académique.
+
+## Un projet scientifique, un espace de coopération
+
+CREONS se situe à l’articulation entre recherche empirique, économie politique des sciences et diplomatie scientifique (Royal Society & AAAS, 2009). En Afrique et en Europe, il s’inscrit dans un contexte où la diplomatie scientifique est mobilisée pour répondre aux asymétries de recherche, construire des partenariats équitables avec les Suds et mieux intégrer l’expertise locale aux défis globaux (European Framework for Science Diplomacy, 2025 ; Conseil européen, 2026), en écho aux principes de la Charte africaine pour des collaborations de recherche transformatrices sur le rééquilibrage des partenariats Nords-Suds (Charte africaine pour des collaborations de recherche transformatrices, 2023).
+
+À partir d’enquêtes, de comparaisons internationales et d’analyses institutionnelles, CREONS vise à produire des outils concrets pour analyser, concevoir et évaluer des partenariats scientifiques, notamment entre l’Europe et l’Afrique. Il s’agit de documenter les asymétries de ressources, d’infrastructures, de mobilité, de reconnaissance et de capacités institutionnelles afin d’appuyer des coopérations plus équilibrées, efficaces et durables.
 
 ## Une articulation forte avec les projets structurants de l'UMI SOURCE
 
-Le GTDID s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE :
+CREONS s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE :
 
--   le **Projet Structurant de Formation "Coopérative de recherche équitable et ouverte Nords-Suds" (PSF CREONS)**, financé par l'IRD à hauteur de **30 000 €** sur trois ans (2024-2027), vise à consolider une coopérative de recherche équitable entre les antennes de l'UMI SOURCE en Côte d'Ivoire, France, Madagascar et Sénégal. Ce programme repose sur le développement du **protocole T2VA** (science ouverte comme outils de Travail, de Valorisation, de Vérification et d'Accompagnement) et répond directement aux inégalités de recherche en développant des formations, des outils partagés et une culture de reproductibilité scientifique.
+-   le **Projet Structurant de Formation "Coopérative de recherche équitable et ouverte Nords-Suds" (PSF CREONS)**, financé par l'IRD à hauteur de **30 000 €** sur trois ans (2024-2027), vise à consolider une coopérative de recherche équitable entre les antennes de l'UMI SOURCE en Côte d'Ivoire, France, Madagascar et Sénégal. Ce programme repose sur le développement du **protocole T2VA** (science ouverte comme outils de Travail, de Valorisation, de Vérification et d'Accompagnement) et répond directement aux inégalités de recherche en développant des formations, des outils partagés et une culture de reproductibilité scientifique. Plus d'informations ici: 
 
--   En parallèle, le **projet ANR CREONS** prolonge et approfondit ces dynamiques. Son premier Work Package (WP1) s’appuie sur les travaux du GTDID pour constituer une base de données originale sur les conditions de recherche en Afrique francophone ; le WP2 analyse et co-développe, en lien étroit avec le PSF CREONS, des solutions en matière de science ouverte et d’intelligence artificielle ; enfin, le WP3 propose une gouvernance équitable de la décarbonation de la recherche. L’ensemble du projet repose sur un cadre conceptuel unificateur, celui de la **« transition juste de la recherche »**, qui articule justice épistémique, justice distributive et justice environnementale
+-   En parallèle, le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** qui étudie les conditions concrètes de réalisation du doctorat dans les Suds. Une première enquête au Sénégal a produit des données déposées sur DataSuds DWISE. Une deuxième enquête en cours de réalisation à Madagascar. Plus d'informations ici: 
 
-Ainsi, le GTDID constitue à la fois une composante scientifique majeure et un moteur de transformation des programmes CREONS, qu’il alimente en données, en analyses et en perspectives critiques sur les inégalités doctorales

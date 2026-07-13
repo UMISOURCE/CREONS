@@ -11,7 +11,7 @@ website:
       ########################################
       # 🇫🇷 ONGLET FRANÇAIS
       ########################################
-      - text: "Présentation"
+      - text: "Le projet"
         href: fr/index.qmd
 
       - text: "Qui sommes-nous ?"
@@ -20,7 +20,7 @@ website:
       - text: "Cadre méthodologique"
         href: fr/about.qmd
 
-      - text: "Groupe de travail disparités et inégalités doctorales (GTDID)"
+      - text: "GTDID"
         href: fr/recherche.qmd
 
       - text: "Gestion des données"
@@ -33,7 +33,7 @@ website:
       ########################################
       # 🇬🇧 ONGLET ANGLAIS
       ########################################
-      - text: "Presentation"
+      - text: "The project"
         href: en/index.qmd
         
       - text: "Who are we?"
