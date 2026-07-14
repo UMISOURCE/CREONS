@@ -18,10 +18,10 @@ website:
         href: fr/index.qmd
 
      # - text: "Qui sommes-nous ?"
-     #  href: fr/contact.qmd
+     #   href: fr/contact.qmd
 
-      - text: "Cadre méthodologique"
-        href: fr/about.qmd
+     # - text: "Cadre méthodologique"
+     #   href: fr/about.qmd
 
       - text: "GTDID"
         href: fr/recherche.qmd
@@ -42,8 +42,8 @@ website:
       # - text: "Who are we?"
       #  href: en/contact.qmd
         
-      - text: "Methodological framework"
-        href: en/about.qmd
+      # - text: "Methodological framework"
+      #  href: en/about.qmd
 
       - text: "GTDID"
         href: en/research.qmd
