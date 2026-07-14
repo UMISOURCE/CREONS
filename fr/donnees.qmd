@@ -11,13 +11,9 @@ bibliography: references.bib
 
 Le **PSF CREONS** vise à structurer un réseau coopératif et interinstitutionnel de formation pour accompagner l’évolution des outils et des méthodes en sciences sociales et environnementales dans les Suds, notamment face aux enjeux liés à la science ouverte et à l’intelligence artificielle.
 
-Dans un contexte marqué par de profondes inégalités de recherche, le projet développe un modèle de **coopérative de recherche équitable et ouverte entre les Nords et les Suds**. Il encourage l’adoption de pratiques collaboratives, inclusives et reproductibles, appuyées sur des outils de communication, de partage et de gestion du travail scientifique. À travers le protocole **T2VA** — Travail, Valorisation, Vérification et Accompagnement —, le PSF CREONS propose des formations adaptables et mutualisées, fondées sur une démarche de formation de formateurs.
+Dans un contexte marqué par de profondes inégalités de recherche, le projet développe un modèle de **coopérative de recherche équitable et ouverte entre les Nords et les Suds**. Il encourage l’adoption de pratiques collaboratives, inclusives et reproductibles, appuyées sur des outils de communication, de partage et de gestion du travail scientifique. À travers le protocole **T2VA** - Travail, Valorisation, Vérification et Accompagnement -, le PSF CREONS propose des formations adaptables et mutualisées, fondées sur une démarche de formation de formateurs.
 
 Le projet associe l’apprentissage des outils de la science ouverte à une réflexion critique sur leur capacité à réduire les inégalités de recherche. Il intègre également, de manière complémentaire, une sensibilisation aux usages et aux enjeux éthiques de l’intelligence artificielle. L’objectif est de renforcer l’autonomie des personnes formées et la capacité des institutions partenaires à actualiser, diffuser et pérenniser ces pratiques.
-
-## Mots-clés
-
-Coopération équitable Nords-Suds ; Open Source ; Open Science ; Formation de formateurs ; Intelligence Artificielle ; Adapatation aux outils innovants ; Sciences sociales et environnementales ; Mutualisation académique.
 
 ## Contexte et enjeux
 
