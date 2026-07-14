@@ -98,4 +98,13 @@ main#quarto-document-content {
 }
 
 
+.intervenants {
+  display: block;
+  margin-top: 0.25rem;
+  color: #5f6368;
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+
 
