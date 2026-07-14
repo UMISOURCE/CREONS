@@ -48,7 +48,7 @@ website:
       - text: "GTDID"
         href: en/research.qmd
 
-      - text: "PSEF CREONS"
+      - text: "PSF CREONS"
         href: en/data.qmd
 
       - text: "📚 Bibliography"
