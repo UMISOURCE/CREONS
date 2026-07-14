@@ -8,10 +8,9 @@ bibliography: references.bib
 ---
 
 ::: aside
-### 📰 Actualités
+### 📰 Contacts
 
-**Contacts**\
-COPIL PSF
+**Mail COPIL PSF**\
 :::
 
 # Plan structurant de formation - Vers une coopérative de recherche ouverte et équitable Nords-Suds (2024-2027)
@@ -47,7 +46,7 @@ Le tableau ci-dessous récapitule le type de formation et les compétences corre
 #### Tableau - Protocole UMI SOURCE "T2VA"
 
 | Type de formation                                                  | Objectifs                                                                                                                                                 |
-|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------|------------------------------------|
 | **1. Outils de « travail » de la science ouverte**                 | Organiser, partager et documenter les productions de recherche à l’aide d’outils comme GitHub et Zotero, dans une logique collaborative et reproductible. |
 | **2. Outils de « valorisation » de la science ouverte**            | Gérer, déposer et valoriser les données et les productions scientifiques, notamment à travers les PGD, DataSuds et HAL.                                   |
 | **3. Outils de « vérification » et de reproductibilité**           | Développer des démarches de recherche transparentes, documentées et reproductibles, notamment à travers les revues systématiques et la réplication.       |
