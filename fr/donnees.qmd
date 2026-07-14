@@ -39,17 +39,12 @@ Le tableau ci-dessous récapitule le type de formation et les compétences corre
 
 #### Tableau - Protocole UMI SOURCE "T2VA"
 
-+--------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Type de formation                                                  | Objectifs                                                                                                                                                 |
-+====================================================================+===========================================================================================================================================================+
-| **1. Outils de "travail" de la science ouverte"**                 | Organiser, partager et documenter les productions de recherche à l’aide d'outils comme GitHub et Zotero, dans une logique collaborative et reproductible. |
-+--------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **2. Outils de "valorisation" de la science ouverte**             | Gérer, déposer et valoriser les données et les productions scientifiques, notamment à travers les PGD, DataSuds et HAL.                                   |
-+--------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **3. Outils de "vérification" et de reproductibilité**            | Développer des démarches de recherche transparentes, documentées et reproductibles, notamment à travers les revues systématiques et la réplication.       |
-+--------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|------------------------------------|------------------------------------|
+| **1. Outils de « travail » de la science ouverte**                 | Organiser, partager et documenter les productions de recherche à l’aide d’outils comme GitHub et Zotero, dans une logique collaborative et reproductible. |
+| **2. Outils de « valorisation » de la science ouverte**            | Gérer, déposer et valoriser les données et les productions scientifiques, notamment à travers les PGD, DataSuds et HAL.                                   |
+| **3. Outils de « vérification » et de reproductibilité**           | Développer des démarches de recherche transparentes, documentées et reproductibles, notamment à travers les revues systématiques et la réplication.       |
 | **4. Outils d’« accompagnement » par l’intelligence artificielle** | Utiliser les outils d’intelligence artificielle de manière critique et responsable pour accompagner les activités de recherche.                           |
-+--------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Modalités de financements & COPIL
 
@@ -65,32 +60,26 @@ Suivant le protocole T2VA, les participant.e.s ont été formé.e.s à la gestio
 
 Plusieurs sessions plénières ont également été ouvertes à un public élargi, en présentiel et à distance :
 
-- **Mercredi 27 mai - La science ouverte : quoi ? pourquoi ? comment ?**  
-  <span class="intervenants">**Intervenant·es :** Jean-Christophe Desconnets (IRD), Moussa Samba (UCAD), Dominique Couret (UMI SOURCE–IRD), Diamondra Ramiandrisoa (UMI SOURCE, Madagascar), Alexandre Mathieu (UMI SOURCE, France), Marceau Salvadori (BU UVSQ), Michel De Moura (BU UVSQ).</span>
+-   **Mercredi 27 mai - La science ouverte : quoi ? pourquoi ? comment ?**\
+    [**Intervenant·es :** Jean-Christophe Desconnets (IRD), Moussa Samba (UCAD), Dominique Couret (UMI SOURCE–IRD), Diamondra Ramiandrisoa (UMI SOURCE, Madagascar), Alexandre Mathieu (UMI SOURCE, France), Marceau Salvadori (BU UVSQ), Michel De Moura (BU UVSQ).]{.intervenants}
 
-- **Jeudi 28 mai - Panorama de l’édition scientifique et stratégies de publication**  
-  <span class="intervenants">**Intervenant·es :** Arthur Guezengar (UVSQ) et Émilie Brunet (IRD).</span>
+-   **Jeudi 28 mai - Panorama de l’édition scientifique et stratégies de publication**\
+    [**Intervenant·es :** Arthur Guezengar (UVSQ) et Émilie Brunet (IRD).]{.intervenants}
 
-- **Vendredi 29 mai - Enjeux et méthodes de la reproductibilité scientifique**  
-  <span class="intervenants">**Intervenants :** Lino Galiana (INSEE) et Romain Espinosa (CNRS).</span>
+-   **Vendredi 29 mai - Enjeux et méthodes de la reproductibilité scientifique**\
+    [**Intervenants :** Lino Galiana (INSEE) et Romain Espinosa (CNRS).]{.intervenants}
 
-- **Lundi 1er juin - Conduire une revue de littérature systématique et reproductible**  
-  <span class="intervenants">**Intervenant·es :** Alexandre Mathieu (UMI SOURCE, France), Guillaume Dezecache (IRD) et Laurence Goury (IRD).</span>
+-   **Lundi 1er juin - Conduire une revue de littérature systématique et reproductible**\
+    [**Intervenant·es :** Alexandre Mathieu (UMI SOURCE, France), Guillaume Dezecache (IRD) et Laurence Goury (IRD).]{.intervenants}
 
-- **Mardi 2 juin - Journée d'étude "Construire une recherche partenariale Nords-Suds équitable : défis, tensions et opportunités"**  
-  <span class="intervenants">**Intervenant·es :** Programme 02 juin.</span>
+-   **Mardi 2 juin - Journée d'étude "Construire une recherche partenariale Nords-Suds équitable : défis, tensions et opportunités"**\
+    [**Intervenant·es :** Programme 02 juin.]{.intervenants}
 
-- **Mercredi 3 juin - Diffuser sa recherche en science ouverte**  
-  <span class="intervenants">**Intervenant·es :** Caroline Doucouré (IRD), Émilie Brunet (IRD), Djamila Merabet (IRD).</span>
+-   **Mercredi 3 juin - Diffuser sa recherche en science ouverte**\
+    [**Intervenant·es :** Caroline Doucouré (IRD), Émilie Brunet (IRD), Djamila Merabet (IRD).]{.intervenants}
 
-- **Jeudi 4 juin - Évolutions et usages de l’IA dans la recherche : quels enjeux dans les Suds ?**  
-  <span class="intervenants">**Intervenant :** Serge Pajak (Université Paris-Saclay).</span>
+-   **Jeudi 4 juin - Évolutions et usages de l’IA dans la recherche : quels enjeux dans les Suds ?**\
+    [**Intervenant :** Serge Pajak (Université Paris-Saclay).]{.intervenants}
 
-- **Vendredi 5 juin - Apprendre à apprendre**  
-  <span class="intervenants">**Intervenant :** Jean-François Parmentier (IPSA Toulouse).</span>
-
-## Dépôt des données
-
-Les résultats de notre questionnaire anonymisé sont archivés sur la plateforme DataSuds de l'Institut de Recherche pour le Développement (IRD).
-
-La collection DataSuds : <https://dataverse.ird.fr/dataverse/disparites-inegalites-doctorales>
+-   **Vendredi 5 juin - Apprendre à apprendre**\
+    [**Intervenant :** Jean-François Parmentier (IPSA Toulouse).]{.intervenants}
