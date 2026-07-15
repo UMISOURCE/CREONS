@@ -12,7 +12,7 @@ bibliography: references.bib
 ## Premières approches
 ### L'enquête GTDID sur l'appropriation doctorale des outils de la SO et possibilités d'appropriation
 
-::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS — Coopérative de recherche équitable et ouverte Nords-Suds"}
+::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS — Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
 
 
 > ### 📰 Contacts et liens
@@ -23,9 +23,6 @@ bibliography: references.bib
 >
 > - <https://www.umi-source.uvsq.fr/psf-creons>
 > - <https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-portee-par-lumi-source>
-
-
-## Plan structurant de formation - Vers une coopérative de recherche ouverte et équitable Nords-Suds (2024-2027)
 
 Le **PSF CREONS** vise à structurer un réseau coopératif et interinstitutionnel de formation pour accompagner l’évolution des outils et des méthodes en sciences sociales et environnementales dans les Suds, notamment face aux enjeux liés à la science ouverte et à l’intelligence artificielle.
 
