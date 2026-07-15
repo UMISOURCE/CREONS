@@ -82,7 +82,7 @@ Ce programme repose sur le développement du **protocole T2VA** — la science o
 
 :::
 
-::: {.callout-note .projet-structurant collapse="true" icon="false" title="GTDID — Groupe de travail sur les disparités et inégalités doctorales"}
+::: {.callout-note .projet-structurant collapse="false" icon="false" title="GTDID — Groupe de travail sur les disparités et inégalités doctorales"}
 
 ### Qui sommes-nous ?
 
