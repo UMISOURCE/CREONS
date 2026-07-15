@@ -79,7 +79,7 @@ CREONS s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE 
 
 
 
-:::: {.callout-note collapse="true" appearance="minimal" icon="false" title="Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » — PSF CREONS"}
+:::: {.callout-note collapse=true appearance=minimal icon=false}
 
 ::: aside
 ### 📰 Contacts & Liens
