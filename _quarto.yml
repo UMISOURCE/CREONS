@@ -82,9 +82,18 @@ format:
   html:
     page-layout: article      
     theme: cosmo
+    
+    toc: true
+    toc-title: "Sur cette page"
+    toc-location: right
+    toc-depth: 3
+    toc-expand: true
+    
     css:
       - styles.css
       - bibliographie.css
     include-after-body:
       - lang.html
+      
+
 
