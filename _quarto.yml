@@ -84,7 +84,7 @@ format:
     theme: cosmo
     
     toc: true
-    toc-title: "Sur cette page"
+    toc-title: "Table of Contents"
     toc-location: right
     toc-depth: 3
     toc-expand: true
