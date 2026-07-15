@@ -8,11 +8,11 @@ bibliography: references.bib
 ---
 
 ::: aside
-### 📰 Contacts
+### 📰 Contacts & Liens
 
 **Mail COPIL PSF :**
 
-**Rubrique site web UMI SOURCE :**
+**Rubriques site web UMI SOURCE :**
 
 -   <https://www.umi-source.uvsq.fr/psf-creons>
 
