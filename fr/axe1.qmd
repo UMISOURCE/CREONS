@@ -6,11 +6,12 @@ format:
 bibliography: references.bib
 ---
 
-## Description 
+## Description
 
 ## Premières applications
 
-### GTDID 
+### Le Groupe de travail disparités et inégalités doctorales (GTDID)
+
 #### Qui sommes-nous ?
 
 Le Groupe de travail sur les disparités et inégalités doctorales (GTDID) réunit des doctorant.e.s, chercheur.euse.s, enseignant.e.s-chercheur.euse.s et personnels d’appui à la recherche membres ou associé.e.s à l’UMI SOURCE. Issu.e.s de ses différentes antennes en Côte d’Ivoire, en France, à Madagascar et au Sénégal, ses membres développent collectivement des recherches sur les conditions de production scientifique dans des contextes académiques inégalement dotés.
@@ -25,7 +26,7 @@ Le doctorat constitue ainsi un point d’observation privilégié pour analyser 
 
 Afin de documenter empiriquement ces inégalités, le GTDID conduit une enquête sur les conditions de réalisation du doctorat dans différents contextes universitaires. Elle vise notamment à identifier les ressources dont disposent les doctorant.e.s et à analyser dans quelle mesure les pratiques et infrastructures de science ouverte peuvent réduire - ou, au contraire, reproduire - certaines inégalités scientifiques.
 
-Une première phase de l’enquête a été réalisée à l’Université Cheikh Anta Diop de Dakar, au Sénégal, auprès de doctorant.e.s en sciences sociales et environnementales. Elle a permis de constituer le premier volet du jeu de données DWISE – Doctoral Work and Inequalities in Scientific Ecosystems.
+Une première phase de l’enquête a été réalisée à l’Université Cheikh Anta Diop de Dakar, au Sénégal, auprès de doctorant.e.s en sciences sociales et environnementales. Elle a permis de constituer le premier volet du jeu de données DWISE - Doctoral Work and Inequalities in Scientific Ecosystems.
 
 L’enquête est désormais étendue à l’Université d’Antananarivo, à Madagascar, également auprès de doctorant.e.s en sciences sociales et environnementales. Cette nouvelle phase doit permettre de documenter un autre environnement universitaire africain et de développer progressivement une analyse comparative des conditions de production scientifique au Sénégal et à Madagascar.
 
@@ -33,8 +34,14 @@ Le questionnaire porte principalement sur : (1) Les financements et les conditio
 
 À terme, cette démarche doit contribuer à construire une grille d’analyse comparative des environnements doctoraux et à nourrir les réflexions sur les politiques de formation, les conditions de travail scientifique et les formes de coopération académique entre les Nords et les Suds, mais également entre les Suds.
 
-#### Trajectoires doctorales
+#### Analyse des thèses de docteur.e.s en économie aux trajectoires académiques initialement ancrées en Afrique
 
-## Trappes à pauvreté institutionnelles ? 
+En complément de ses enquêtes sur les conditions de réalisation du doctorat, le GTDID étudie les thèses d’économie soutenues en France par des docteur.e.s ayant suivi une partie de leur formation universitaire en Afrique. L’objectif est de déterminer si ces trajectoires sont associées à des spécialisations thématiques particulières et d’interroger ainsi une possible division internationale du travail scientifique : les docteur.e.s issu.e.s de trajectoires africaines investissent-ils et elles les mêmes objets que les autres économistes ou sont-ils et elles davantage orienté.e.s vers certains sujets, terrains ou domaines d’expertise ?
+
+Cette recherche s’appuie sur le jeu de données Becoming Economists de @delcey2025, qui recense les thèses d’économie soutenues en France entre 1900 et 2023. Les informations disponibles sur les thèses soutenues au sein des universités africaines étant encore trop fragmentaires et inégalement accessibles pour conduire une analyse comparable, ce premier travail porte sur les docteur.e.s ayant réalisé leur thèse en France.
+
+Cette analyse à venir permet d'étudier de manière préliminaire la construction des capacités scientifiques à partir des trajectoires de formation et des connaissances effectivement produites. C'est une première étape appelée à être élargie. Une comparaison avec les trajectoires de docteur.e.s formé.e.s dans d’autres systèmes universitaires, notamment au Royaume-Uni, permettrait de mieux distinguer ce qui relève des trajectoires académiques africaines et ce qui dépend des institutions d’accueil. Finalement, cette démarche sera prolongée par une analyse des parcours des docteur.e.s africain.e.s avant et après leur thèse, afin d’étudier conjointement leurs formations, leurs mobilités, leurs objets de recherche et leurs trajectoires professionnelles.
+
+## Trappes à pauvreté institutionnelles ?
 
 ## Enquête sur le travail de terrain
