@@ -35,8 +35,8 @@ website:
       - text: "GTDID"
         href: fr/recherche.qmd
 
-      - text: "PSF CREONS"
-        href: fr/donnees.qmd
+     # - text: "PSF CREONS"
+     #   href: fr/donnees.qmd
 
       - text: "📚 Bibliographie"
         href: fr/bibliographie.qmd
@@ -57,8 +57,8 @@ website:
       - text: "GTDID"
         href: en/research.qmd
 
-      - text: "PSF CREONS"
-        href: en/data.qmd
+      # - text: "PSF CREONS"
+      #   href: en/data.qmd
 
       - text: "📚 Bibliography"
         href: en/bibliography.qmd
