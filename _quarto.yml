@@ -23,13 +23,13 @@ website:
      # - text: "Cadre méthodologique"
      #   href: fr/about.qmd
      
-      - text: "Axe 1"
+      - text: "Axe 1 - Capacités scientifiques"
         href: fr/axe1.qmd
       
-      - text: "Axe 2"
+      - text: "Axe 2 - Science ouverte"
         href: fr/axe2.qmd
         
-      - text: "Axe 3"
+      - text: "Axe 3 - IA"
         href: fr/axe3.qmd
 
       - text: "GTDID"
