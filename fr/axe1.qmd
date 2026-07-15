@@ -20,13 +20,7 @@ L’approche micro analyse la construction des capacités scientifiques à parti
 
 Elle rassemble trois études complémentaires : l’enquête DWISE sur les conditions de réalisation du doctorat, l’analyse des trajectoires académiques de docteur.es en économie et l’enquête sur la production des données scientifiques à Madagascar.
 
-### Le GTDID, un collectif transversal
-
-Le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** réunit des doctorant.e.s, chercheur.euses, enseignant.es-chercheur.euses et personnels d’appui à la recherche membres ou associé.es à l’UMI SOURCE.
-
-Issu.es des antennes de l’UMI SOURCE en Côte d’Ivoire, en France, à Madagascar et au Sénégal, ses membres développent collectivement des recherches sur les conditions de production scientifique dans des contextes académiques inégalement dotés.
-
-Le GTDID part d’une question centrale : **comment mener des recherches robustes dans des environnements structurellement inégaux ?** Il étudie en particulier la manière dont les ressources institutionnelles, financières, matérielles et humaines influencent les possibilités de produire, de diffuser et de valoriser les connaissances.
+Plusieurs de ces recherches sont développées dans le cadre du **Groupe de travail sur les disparités et inégalités doctorales (GTDID)**. Présenté sur la page d’accueil de CREONS, ce collectif constitue un espace de travail transversal à plusieurs axes du programme. Il contribue à articuler l’étude des parcours doctoraux individuels, des environnements institutionnels et des inégalités qui structurent leur production scientifique.
 
 ::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro - DWISE : conditions de réalisation du doctorat"}
 **Objectif**
