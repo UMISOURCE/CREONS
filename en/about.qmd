@@ -1,6 +1,5 @@
 ---
 title: "Methodological framework"
-bibliography: references.bib
 ---
 
 ## A combined analytical framework: SLAs, endowment inequalities and threshold effects
