@@ -32,8 +32,8 @@ website:
       - text: "Axe 3 - IA"
         href: fr/axe3.qmd
 
-      - text: "GTDID"
-        href: fr/recherche.qmd
+      # - text: "GTDID"
+      #  href: fr/recherche.qmd
 
      # - text: "PSF CREONS"
      #   href: fr/donnees.qmd
@@ -54,8 +54,8 @@ website:
       # - text: "Methodological framework"
       #  href: en/about.qmd
 
-      - text: "GTDID"
-        href: en/research.qmd
+      # - text: "GTDID"
+      #  href: en/research.qmd
 
       # - text: "PSF CREONS"
       #   href: en/data.qmd

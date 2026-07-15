@@ -25,7 +25,7 @@ Les deux premières démarches présentées ci-dessous associent ainsi un dispos
 
 La science ouverte peut faciliter l’accès aux publications, aux données, aux codes, aux ressources pédagogiques et aux infrastructures de diffusion scientifique. Toutefois, la possibilité d’en tirer effectivement parti dépend de conditions matérielles, techniques, institutionnelles et sociales qui demeurent inégalement réparties.
 
-L’enquête cherche ainsi à répondre à une question centrale : **dans quelles conditions les doctorant.es peuvent-ils et elles s’approprier les outils et les pratiques de la science ouverte ?**
+L’enquête cherche ainsi à répondre à une question centrale : **dans quelles conditions les doctorant.e.s peuvent-ils et elles s’approprier les outils et les pratiques de la science ouverte ?**
 
 L’objectif n’est pas seulement de mesurer la connaissance ou l’utilisation de certains outils, mais d’analyser les ressources nécessaires à leur appropriation, les obstacles rencontrés et les effets que ces pratiques peuvent produire sur les conditions de réalisation du doctorat.
 
@@ -54,7 +54,7 @@ L’enquête permet ainsi d’étudier plusieurs niveaux complémentaires d’ap
 
 **Une perspective comparative**
 
-Une première phase de l’enquête a été réalisée auprès de doctorant.e.s en sciences sociales et environnementales de l’Université Cheikh Anta Diop de Dakar. Elle a permis de constituer le premier volet du jeu de données **DWISE — Doctoral Work and Inequalities in Scientific Ecosystems** [@faye2026].
+Une première phase de l’enquête a été réalisée auprès de doctorant.e.s en sciences sociales et environnementales de l’Université Cheikh Anta Diop de Dakar. Elle a permis de constituer le premier volet du jeu de données **DWISE - Doctoral Work and Inequalities in Scientific Ecosystems** [@faye2026].
 
 Une deuxième phase est menée à l’Université d’Antananarivo. La comparaison entre les deux terrains permettra d’identifier les contraintes communes, mais également les différences liées aux environnements universitaires, aux infrastructures disponibles et aux formes locales d’organisation de la recherche.
 
@@ -96,7 +96,7 @@ Ces constats ont conduit l'UMI SOURCE à interroger les pratiques susceptibles d
 
 Les expériences de formation et d’accompagnement conduites au sein de l’UMI SOURCE ont permis d’explorer concrètement ces enjeux. Elles ont porté sur la gestion et le dépôt des données, la publication de data papers et la diffusion de ressources pédagogiques consacrées aux principaux outils de la science ouverte. Ces premières expérimentations ont également montré la nécessité de dépasser une approche strictement technique afin d’interroger les conditions d’appropriation, de transmission et de pérennisation de ces pratiques.
 
-### La science ouverte : un possible rempart aux i
+### La science ouverte : un possible rempart aux inégalités dans la recherche scientifique ?
 
 Le projet CREONS se situe à l’articulation de deux questionnements : celui des inégalités structurelles qui traversent la production scientifique entre les Nords et les Suds, et celui des effets de la science ouverte sur ces inégalités. L’enjeu est donc de développer une approche réflexive de la science ouverte, attentive à ses avantages comme à ses potentielles limites. Le projet encourage pour cela des pratiques collaboratives et reproductibles, appuyées sur des outils de communication, de gestion des tâches, de partage bibliographique et de collaboration sur les données et les codes.
 
