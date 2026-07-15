@@ -68,15 +68,7 @@ CREONS se situe à l’articulation entre recherche empirique, économie politiq
 
 À partir d’enquêtes, de comparaisons internationales et d’analyses institutionnelles, CREONS vise à produire des outils concrets pour analyser, concevoir et évaluer des partenariats scientifiques, notamment entre l’Europe et l’Afrique. Il s’agit de documenter les asymétries de ressources, d’infrastructures, de mobilité, de reconnaissance et de capacités institutionnelles afin d’appuyer des coopérations plus équilibrées, efficaces et durables.
 
-## Une articulation forte avec les projets structurants de l'UMI SOURCE
-
-CREONS s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE :
-
--   le **Projet Structurant de Formation "Coopérative de recherche équitable et ouverte Nords-Suds" (PSF CREONS)**, financé par l'IRD à hauteur de **30 000 €** sur trois ans (2024-2027), vise à consolider une coopérative de recherche équitable entre les antennes de l'UMI SOURCE en Côte d'Ivoire, France, Madagascar et Sénégal. Ce programme repose sur le développement du **protocole T2VA** (science ouverte comme outils de Travail, de Valorisation, de Vérification et d'Accompagnement) et répond directement aux inégalités de recherche en développant des formations, des outils partagés et une culture de reproductibilité scientifique. Plus d'informations ici:
-
--   En parallèle, le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** qui étudie les conditions concrètes de réalisation du doctorat dans les Suds. Une première enquête au Sénégal a produit des données déposées sur DataSuds DWISE. Une deuxième enquête en cours de réalisation à Madagascar. Plus d'informations ici:
-
-## 2Une articulation forte avec les projets structurants de l’UMI SOURCE
+## Une articulation forte avec les projets structurants de l’UMI SOURCE
 
 CREONS s’inscrit en coordination étroite avec deux dispositifs structurants de l’UMI SOURCE :
 
@@ -86,7 +78,7 @@ Le **Projet Structurant de Formation « Coopérative de recherche équitable et 
 
 Ce programme repose sur le développement du **protocole T2VA** — la science ouverte comme outil de **Travail, de Valorisation, de Vérification et d’Accompagnement** — et répond directement aux inégalités de recherche en développant des formations, des outils partagés et une culture de reproductibilité scientifique.
 
-[**Plus d’informations sur le PSF CREONS**](https://www.umi-source.uvsq.fr/psf-creons)
+[**Rubrique du PSF CREONS ici**](https://umisource.github.io/CREONS/fr/axe2.html)
 
 :::
 
@@ -94,7 +86,7 @@ Ce programme repose sur le développement du **protocole T2VA** — la science o
 
 ### Qui sommes-nous ?
 
-Le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** réunit des doctorant·es, chercheur·euses, enseignant·es-chercheur·euses et personnels d’appui à la recherche membres ou associé·es à l’UMI SOURCE.
+Le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** réunit des doctorant.es, chercheur.euses, enseignant.es-chercheur.euses et personnels d’appui à la recherche membres ou associé.es à l’UMI SOURCE.
 
 Issu·es de ses différentes antennes en Côte d’Ivoire, en France, à Madagascar et au Sénégal, ses membres développent collectivement des recherches sur les conditions de production scientifique dans des contextes académiques inégalement dotés.
 
