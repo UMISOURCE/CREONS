@@ -72,7 +72,7 @@ CREONS se situe à l’articulation entre recherche empirique, économie politiq
 
 CREONS s’inscrit en coordination étroite avec deux dispositifs structurants de l’UMI SOURCE :
 
-::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS — Coopérative de recherche équitable et ouverte Nords-Suds"}
+::: {#psf-creons .callout-note .etude-micro collapse="false" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
 
 Le **Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » (PSF CREONS)**, financé par l’IRD à hauteur de **30 000 €** sur trois ans (2024-2027), vise à consolider une coopérative de recherche équitable entre les antennes de l’UMI SOURCE en Côte d’Ivoire, en France, à Madagascar et au Sénégal.
 

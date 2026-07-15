@@ -66,7 +66,7 @@ L’enjeu est donc de déterminer non seulement si les outils de la science ouve
 
 :::
 
-::: {.callout-note .etude-micro collapse="true" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
+::: {#psf-creons .callout-note .etude-micro collapse="true" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
 
 
 > ### 📰 Contacts et liens
