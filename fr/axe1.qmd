@@ -42,6 +42,18 @@ Cette recherche s’appuie sur le jeu de données Becoming Economists de @delcey
 
 Cette analyse à venir permet d'étudier de manière préliminaire la construction des capacités scientifiques à partir des trajectoires de formation et des connaissances effectivement produites. C'est une première étape appelée à être élargie. Une comparaison avec les trajectoires de docteur.e.s formé.e.s dans d’autres systèmes universitaires, notamment au Royaume-Uni, permettrait de mieux distinguer ce qui relève des trajectoires académiques africaines et ce qui dépend des institutions d’accueil. Finalement, cette démarche sera prolongée par une analyse des parcours des docteur.e.s africain.e.s avant et après leur thèse, afin d’étudier conjointement leurs formations, leurs mobilités, leurs objets de recherche et leurs trajectoires professionnelles.
 
+## Division du travail scientifique et production des données à Madagascar
+
+La production scientifique mondiale demeure structurée par des inégalités de ressources, de reconnaissance et de capacité à définir les agendas de recherche (Xie, 2014 ; Wagner, 2008 ; Losego & Arvanitis, 2008). Dans les collaborations internationales, ces asymétries peuvent se traduire par une répartition différenciée des tâches entre conceptualisation, production des données, analyse et rédaction (Miao et al., 2024 ; Ralfs et al., 2026 ; Shinn, Vellard & Waast, 2010 ; Keim, 2010). Elles rejoignent également les réflexions sur l’extraversion scientifique et la « science hélicoptère » (Hountondji ; Odeny & Bosurgi, 2022).
+
+Dans une perspective d’économie politique du chiffre, cette recherche s’intéresse aux activités concrètes qui rendent possible la production des données scientifiques et à la manière dont celles-ci sont organisées, réparties et reconnues. Elle adopte une approche par les tâches afin de suivre la chaîne de production du chiffre, du travail de terrain jusqu’à sa transformation en publications, sans limiter l’analyse aux seules signatures visibles dans les articles.
+
+Madagascar constitue à cet égard un terrain d’observation privilégié. De nombreux projets de recherche et de développement y sont conduits par des acteurs institutionnels variés, tandis que la participation aux enquêtes de terrain représente une source importante de financement et d’activité pour les chercheur·euse·s et les doctorant·e·s. L’étude doit ainsi permettre de mieux comprendre la place de ce travail empirique dans les collaborations scientifiques et sa conversion en reconnaissance académique.
+
+Le projet associera une enquête auprès des personnes impliquées dans ces activités à des entretiens approfondis portant sur leurs expériences du terrain et du travail scientifique. En complément de la valorisation académique, ces récits et situations alimenteront la création d’une bande dessinée, destinée à rendre visibles de manière incarnée les pratiques, les tensions et les hiérarchies qui traversent la production des données. 
+
+Pour CREONS, cette recherche permet d’analyser les coopérations scientifiques à partir du travail effectivement réalisé et des conditions dans lesquelles celui-ci produit, ou non, des compétences, de la visibilité et du capital académique.
+
 ## Pièges de sous-développement à l'échelle des universités
 
 Les universités jouent un rôle central dans la production et l’accumulation des connaissances, mais elles évoluent dans un espace scientifique mondial marqué par de fortes inégalités de ressources, d’infrastructures, de capital scientifique et d’accès aux réseaux académiques [@ralfs2026]. Ces asymétries contribuent à une division internationale du travail scientifique dans laquelle les institutions des Suds occupent souvent des positions périphériques [@shinn2010; @keim2010].
@@ -52,4 +64,3 @@ Le projet s’appuie sur plus de **33 000 observations couvrant environ 1 600 é
 
 Les analyses portent sur les trajectoires de production et de visibilité, les réseaux de collaboration et la capacité de programmes tels que les **Centres africains d’excellence** à infléchir ces trajectoires [@cerdeira2023]. Ce travail analyse les capacités scientifiques à l'échelle des organisations, dans leur capacité à accumuler et stabiliser des ressources, et s'insérer dans les réseaux scientifiques.
 
-## Enquête sur le travail de terrain
