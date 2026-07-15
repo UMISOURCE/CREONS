@@ -75,24 +75,21 @@ CREONS s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE 
 
 -   En parallèle, le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** qui étudie les conditions concrètes de réalisation du doctorat dans les Suds. Une première enquête au Sénégal a produit des données déposées sur DataSuds DWISE. Une deuxième enquête en cours de réalisation à Madagascar. Plus d'informations ici:
 
-
-<details markdown="1">
+<details>
 
 <summary><strong>Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » — PSF CREONS</strong></summary>
 
-::: aside
-### 📰 Contacts & Liens
+> ### 📰 Contacts et liens
+>
+> **Mail du COPIL PSF :**
+>
+> **Rubriques du site web de l’UMI SOURCE :**
+>
+> - <https://www.umi-source.uvsq.fr/psf-creons>
+> - <https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-portee-par-lumi-source>
 
-**Mail COPIL PSF :**
 
-**Rubriques site web UMI SOURCE :**
-
--   <https://www.umi-source.uvsq.fr/psf-creons>
-
--   <https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-portee-par-lumi-source>
-:::
-
-### Plan structurant de formation - Vers une coopérative de recherche ouverte et équitable Nords-Suds (2024-2027)
+## Plan structurant de formation - Vers une coopérative de recherche ouverte et équitable Nords-Suds (2024-2027)
 
 Le **PSF CREONS** vise à structurer un réseau coopératif et interinstitutionnel de formation pour accompagner l’évolution des outils et des méthodes en sciences sociales et environnementales dans les Suds, notamment face aux enjeux liés à la science ouverte et à l’intelligence artificielle.
 
@@ -170,17 +167,4 @@ Plusieurs sessions plénières ont également été ouvertes à un public élarg
     [**Intervenant :** Jean-François Parmentier (IPSA Toulouse).]{.intervenants}
 
 </details>
-
-
-
-
-
-
-<summary><strong>Groupe de travail sur les disparités et inégalités doctorales — GTDID</strong></summary>
-
-Le Groupe de travail sur les disparités et inégalités doctorales (GTDID) étudie les conditions concrètes de réalisation du doctorat dans les Suds.
-
-Une première enquête menée au Sénégal a permis de produire les données DWISE, déposées sur DataSuds. Une deuxième enquête est actuellement en cours de réalisation à Madagascar.
-
-Plus d'informations sur le GTDID
 
