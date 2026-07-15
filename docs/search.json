@@ -340,7 +340,7 @@
     "href": "fr/donnees.html",
     "title": "PSF CREONS",
     "section": "",
-    "text": "Mail COPIL PSF"
+    "text": "Mail COPIL PSF :\nRubrique site web UMI SOURCE :\n\nhttps://www.umi-source.uvsq.fr/psf-creons\nhttps://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-portee-par-lumi-source"
   },
   {
     "objectID": "fr/donnees.html#mots-clés",
@@ -376,5 +376,12 @@
     "title": "PSF CREONS",
     "section": "Formation de formateur.rice.s",
     "text": "Formation de formateur.rice.s\nDu 26 mai au 5 juin 2026, l’UMI SOURCE a organisé à l’UVSQ une formation intensive de dix jours dans le cadre du PSF CREONS. Le programme reposait sur une démarche de formation de formateur.rice.s, afin de diffuser localement des pratiques de recherche ouvertes, reproductibles, équitables et responsables.\nSuivant le protocole T2VA, les participant.e.s ont été formé.e.s à la gestion FAIR des données, aux plans de gestion des données, aux revues systématiques, à la reproductibilité, au dépôt des productions dans HAL et DataSuds, à la collaboration avec GitHub, ainsi qu’à l’usage responsable de l’intelligence artificielle.\nPlusieurs sessions plénières ont également été ouvertes à un public élargi, en présentiel et à distance :\n\nMercredi 27 mai - La science ouverte : quoi ? pourquoi ? comment ?\nIntervenant·es : Jean-Christophe Desconnets (IRD), Moussa Samba (UCAD), Dominique Couret (UMI SOURCE–IRD), Diamondra Ramiandrisoa (UMI SOURCE, Madagascar), Alexandre Mathieu (UMI SOURCE, France), Marceau Salvadori (BU UVSQ), Michel De Moura (BU UVSQ).\nJeudi 28 mai - Panorama de l’édition scientifique et stratégies de publication\nIntervenant·es : Arthur Guezengar (UVSQ) et Émilie Brunet (IRD).\nVendredi 29 mai - Enjeux et méthodes de la reproductibilité scientifique\nIntervenants : Lino Galiana (INSEE) et Romain Espinosa (CNRS).\nLundi 1er juin - Conduire une revue de littérature systématique et reproductible\nIntervenant·es : Alexandre Mathieu (UMI SOURCE, France), Guillaume Dezecache (IRD) et Laurence Goury (IRD).\nMardi 2 juin - Journée d’étude “Construire une recherche partenariale Nords-Suds équitable : défis, tensions et opportunités”\nIntervenant·es : Programme 02 juin.\nMercredi 3 juin - Diffuser sa recherche en science ouverte\nIntervenant·es : Caroline Doucouré (IRD), Émilie Brunet (IRD), Djamila Merabet (IRD).\nJeudi 4 juin - Évolutions et usages de l’IA dans la recherche : quels enjeux dans les Suds ?\nIntervenant : Serge Pajak (Université Paris-Saclay).\nVendredi 5 juin - Apprendre à apprendre\nIntervenant : Jean-François Parmentier (IPSA Toulouse)."
+  },
+  {
+    "objectID": "fr/axe1.html",
+    "href": "fr/axe1.html",
+    "title": "CREONS - Vers une communauté de recherche équitable et ouverte Nords-Suds",
+    "section": "",
+    "text": "Comment se construisent les capacités scientifiques ?"
   }
 ]

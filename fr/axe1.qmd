@@ -1,0 +1,9 @@
+---
+title: "CREONS - Vers une communauté de recherche équitable et ouverte Nords-Suds"
+format:
+  html:
+    page-layout: article
+bibliography: references.bib
+---
+
+# Comment se construisent les capacités scientifiques ?
