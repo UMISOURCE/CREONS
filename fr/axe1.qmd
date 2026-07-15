@@ -42,6 +42,14 @@ Cette recherche s’appuie sur le jeu de données Becoming Economists de @delcey
 
 Cette analyse à venir permet d'étudier de manière préliminaire la construction des capacités scientifiques à partir des trajectoires de formation et des connaissances effectivement produites. C'est une première étape appelée à être élargie. Une comparaison avec les trajectoires de docteur.e.s formé.e.s dans d’autres systèmes universitaires, notamment au Royaume-Uni, permettrait de mieux distinguer ce qui relève des trajectoires académiques africaines et ce qui dépend des institutions d’accueil. Finalement, cette démarche sera prolongée par une analyse des parcours des docteur.e.s africain.e.s avant et après leur thèse, afin d’étudier conjointement leurs formations, leurs mobilités, leurs objets de recherche et leurs trajectoires professionnelles.
 
-## Trappes à pauvreté institutionnelles ?
+## Pièges de sous-développement à l'échelle des universités
+
+Les universités jouent un rôle central dans la production et l’accumulation des connaissances, mais elles évoluent dans un espace scientifique mondial marqué par de fortes inégalités de ressources, d’infrastructures, de capital scientifique et d’accès aux réseaux académiques [@ralfs2026]. Ces asymétries contribuent à une division internationale du travail scientifique dans laquelle les institutions des Suds occupent souvent des positions périphériques [@shinn2010; @keim2010].
+
+À travers une **approche méso**, CREONS étudie les universités comme des lieux d’accumulation de capacités scientifiques. La recherche interroge l’existence de mécanismes cumulatifs de dépendance et de verrouillage, proches des trappes à pauvreté étudiées en économie du développement [@karlan2026; @balboni2022; @azariadis_stachurski_2005; @bowles2011] : une faible production ou visibilité initiale peut-elle limiter durablement l’accès aux ressources, aux collaborations et aux possibilités de publication ?
+
+Le projet s’appuie sur plus de **33 000 observations couvrant environ 1 600 établissements africains sur près de vingt ans**. Il combine des données bibliométriques issues d’OpenAlex avec des indicateurs institutionnels et macroéconomiques. Le choix d’OpenAlex vise à mieux couvrir les productions africaines, généralement moins bien représentées dans Web of Science et Scopus, tout en tenant compte des limites propres aux bases internationales [@alonso-alvarez2024; @tijssen2007; @hountondji2009].
+
+Les analyses portent sur les trajectoires de production et de visibilité, les réseaux de collaboration et la capacité de programmes tels que les **Centres africains d’excellence** à infléchir ces trajectoires [@cerdeira2023]. Ce travail analyse les capacités scientifiques à l'échelle des organisations, dans leur capacité à accumuler et stabiliser des ressources, et s'insérer dans les réseaux scientifiques.
 
 ## Enquête sur le travail de terrain
