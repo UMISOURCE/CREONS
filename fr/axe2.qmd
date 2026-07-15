@@ -1,5 +1,5 @@
 ---
-title: "Axe 2. La science ouverte peut-elle réduire les asymétries scientifiques ?"
+title: "Axe 2. Science ouverte et capacités scientifiques : ouvrir les connaissances, élargir les capacités scientifiques"
 format:
   html:
     page-layout: article

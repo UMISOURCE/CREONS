@@ -1,5 +1,5 @@
 ---
-title: "Axe 3. L'intelligence artificielle transforme-t-elle les rapports de production scientifique ?"
+title: "Axe 3. Intelligence artificielle et capacités scientifiques : augmenter les connaissances, reconfigurer les capacités scientifiques"
 format:
   html:
     page-layout: article
@@ -8,7 +8,7 @@ bibliography: references.bib
 
 L’essor des intelligences artificielles génératives transforme progressivement les activités de recherche. Ces outils interviennent désormais dans la recherche bibliographique, la traduction, la rédaction académique, la programmation, l’analyse de données ou la synthèse documentaire [@hammad2023; @doi:eloundou_manning_2024; @gao_quantifying_2024; @liang2025].
 
-Ces transformations invitent à dépasser la question du remplacement des chercheur·euse·s pour analyser la manière dont l’IA redistribue les tâches, modifie les compétences valorisées et reconfigure les conditions de production des connaissances (Autor, Levy et Murnane, 2003 ; Acemoglu et Restrepo, 2019 ; Spring-Ragain, 2026). Elles soulèvent également des questions d’accès aux infrastructures, d’autonomie scientifique, de dépendance cognitive et de concentration du pouvoir autour des grandes plateformes numériques [@capraro_lentsch_2024; @liu_who_2026; @acemoglu2026].
+Ces transformations invitent à dépasser la question du remplacement des chercheur.euse.s pour analyser la manière dont l’IA redistribue les tâches, modifie les compétences valorisées et reconfigure les conditions de production des connaissances (Autor, Levy et Murnane, 2003 ; Acemoglu et Restrepo, 2019 ; Spring-Ragain, 2026). Elles soulèvent également des questions d’accès aux infrastructures, d’autonomie scientifique, de dépendance cognitive et de concentration du pouvoir autour des grandes plateformes numériques [@capraro_lentsch_2024; @liu_who_2026; @acemoglu2026].
 
 Dans ce contexte, CREONS développe un axe de recherche consacré à la question suivante : **Comment l’intelligence artificielle générative transforme-t-elle les capacités scientifiques dans les Nords et les Suds, et avec quels effets sur les inégalités et les rapports de pouvoir qui structurent la production mondiale des connaissances ?**
 
@@ -24,7 +24,7 @@ L'axe mobilisera une approche articulant trois échelles d'analyse.
 
     -   Favorisent-ils au contraire une délégation excessive, une standardisation des raisonnements ou une dépendant cognitive ?
 
-Des travaux expérimentaux mettent en évidence des gains de rapidité et de qualité pour certaines tâches situées dans le champ de compétence des modèles, tout en soulignant l’importance de la supervision humaine [@dellacqua2026]. D’autres contributions interrogent les risques de déqualification et de dépendance cognitive associés à une délégation croissante des activités intellectuelles [@desveaud2025; @qian2026] (Desveaud, 2025 ; Qian et Xie, 2024).
+Des travaux expérimentaux mettent en évidence des gains de rapidité et de qualité pour certaines tâches situées dans le champ de compétence des modèles, tout en soulignant l’importance de la supervision humaine [@dellacqua2026]. D’autres contributions interrogent les risques de déqualification et de dépendance cognitive associés à une délégation croissante des activités intellectuelles [@desveaud2025; @qian2026].
 
 -   **L'échelle méso : les institutions et les collectifs scientifiques.**
 
@@ -44,11 +44,11 @@ L’adoption effective des outils génératifs varie selon les environnements pr
 
 L’utilisation des outils génératifs reste fortement concentrée dans les pays à hauts revenus, tandis que l’accès aux infrastructures numériques demeure très inégal [@liu_who_2026]. La concentration des modèles, des données et des capacités de calcul autour d’un nombre limité de plateformes soulève également des enjeux de pouvoir économique et informationnel [@capraro_lentsch_2024].
 
-CREONS examinera ainsi plusieurs hypothèses : l’IA peut constituer une technologie de **rattrapage**, de **compensation**, de **substitution** ou de **dépendance**, selon les tâches, les ressources disponibles et les contextes institutionnels.
+CREONS examinera ainsi plusieurs hypothèses : l’IA peut constituer une technologie de **rattrapage (*leapfrogging*)**, de **compensation**, de **substitution** ou de **dépendance**, selon les tâches, les ressources disponibles et les contextes institutionnels.
 
-La taxonomie des formes de délégation proposée par @suchikova2025 Suchikova et al. (2025) pourra notamment contribuer à identifier les tâches scientifiques assistées, déléguées, supervisées ou maintenues sous contrôle humain. La comparaison entre les Nords et les Suds constituera cependant un prolongement empirique propre à CREONS.
+La taxonomie des formes de délégation proposée par @suchikova2025 pourra notamment contribuer à identifier les tâches scientifiques assistées, déléguées, supervisées ou maintenues sous contrôle humain. La comparaison entre les Nords et les Suds constituera cependant un prolongement empirique propre à CREONS.
 
-## IA et science ouverte
+## Science ouverte et science augmentée par l'IA
 
 Cet axe sera étroitement articulé aux recherches de CREONS sur la science ouverte. Il s’agira, d’une part, d’étudier si l’IA facilite l’apprentissage des outils de documentation, de partage, de traitement et de reproductibilité, et si cette assistance se traduit par une progression durable des compétences.
 
