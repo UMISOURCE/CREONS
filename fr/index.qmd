@@ -3,6 +3,7 @@ title: "CREONS - Vers une communauté de recherche équitable et ouverte Nords-S
 format:
   html:
     page-layout: article
+    css: styles.css
 bibliography: references.bib
 ---
 
@@ -77,7 +78,7 @@ CREONS s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE 
 
 
 
-::: {.callout-note collapse="true" title="Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » — PSF CREONS"}
+::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS — Coopérative de recherche équitable et ouverte Nords-Suds"}
 
 
 > ### 📰 Contacts et liens
