@@ -14,7 +14,7 @@ website:
       ########################################
       # 🇫🇷 ONGLET FRANÇAIS
       ########################################
-      - text: "Le projet"
+      - text: "Résumé"
         href: fr/index.qmd
 
      # - text: "Qui sommes-nous ?"
