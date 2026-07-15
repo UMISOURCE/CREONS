@@ -75,7 +75,11 @@ CREONS s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE 
 
 -   En parallèle, le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** qui étudie les conditions concrètes de réalisation du doctorat dans les Suds. Une première enquête au Sénégal a produit des données déposées sur DataSuds DWISE. Une deuxième enquête en cours de réalisation à Madagascar. Plus d'informations ici:
 
-<details> <summary><strong>Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » — PSF CREONS</strong></summary>
+
+
+
+
+:::: {.callout-note collapse="true" appearance="minimal" icon="false" title="Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » — PSF CREONS"}
 
 ::: aside
 ### 📰 Contacts & Liens
@@ -176,4 +180,4 @@ Une première enquête menée au Sénégal a permis de produire les données DWI
 
 Plus d'informations sur le GTDID
 
-</details>
+::::
