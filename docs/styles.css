@@ -123,13 +123,6 @@ main#quarto-document-content {
   background-color: rgba(30, 90, 140, 0.13);
 }
 
-/* Titre du bandeau */
-.projet-structurant .callout-title-container {
-  font-size: 1.25rem;
-  font-weight: 750;
-  line-height: 1.35;
-}
-
 /* Corps du volet */
 .projet-structurant .callout-body-container {
   padding: 1.5rem 1.75rem 2rem;
