@@ -15,7 +15,7 @@ L’approche développée par CREONS a vocation à articuler plusieurs niveaux d
 
 Les premiers travaux prennent principalement appui sur une approche micro. L’enquête portée par le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** permet d’analyser les usages et les conditions d’appropriation de la science ouverte au cours du doctorat. En parallèle, le **PSF CREONS** constitue un espace d’expérimentation et de formation visant à développer des pratiques de recherche ouvertes, collaboratives et reproductibles dans différents contextes institutionnels.
 
-## Premières approches
+## Deux premières approches
 
 Les deux premières démarches présentées ci-dessous associent ainsi un dispositif d’enquête sur les conditions d’appropriation de la science ouverte et un programme de formation destiné à expérimenter des formes d’accompagnement adaptées aux environnements scientifiques des différentes antennes de l’UMI SOURCE.
 
@@ -66,8 +66,7 @@ L’enjeu est donc de déterminer non seulement si les outils de la science ouve
 
 :::
 
-
-::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
+::: {.callout-note .etude-micro collapse="true" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
 
 
 > ### 📰 Contacts et liens
