@@ -60,7 +60,11 @@ Cette question s’inscrit dans les débats sur les injustices épistémiques, q
 
 ## Entre économie politique du chiffre et économie politique des sciences
 
-CREONS vise à développer une approche originale d’économie politique des sciences, en analysant la production des connaissances comme un processus de travail organisé. Cette perspective articule l’étude des conditions concrètes de production des données (terrain, collecte, nettoyage, etc.) et celle des mécanismes par lesquels ces tâches sont transformées, ou non, en publications, visibilité et reconnaissance académique. L’hypothèse étant que les inégalités scientifiques ne se jouent pas seulement dans les ressources disponibles ou les résultats mesurables, mais aussi dans la chaîne de production des savoirs : dans la répartition des tâches, le contrôle des données, les infrastructures de publication et la conversion différenciée du travail scientifique en capital académique.
+CREONS vise à développer une approche originale d’économie politique des sciences, en analysant la production des connaissances comme un processus de travail organisé. Cette perspective articule l’étude des conditions concrètes de production des données (terrain, collecte, nettoyage, etc.) et celle des mécanismes par lesquels ces tâches sont transformées, ou non, en publications, visibilité et reconnaissance académique.
+
+Dans chacun de ses axes, CREONS mobilise systématiquement une analyse à trois échelles : **micro**, pour étudier les pratiques, les compétences et les trajectoires individuelles ; **méso**, pour examiner le rôle des collectifs, des laboratoires et des institutions ; et **macro**, pour analyser les systèmes scientifiques, leurs infrastructures et les rapports entre les Nords et les Suds.
+
+L’hypothèse étant que les inégalités scientifiques ne se jouent pas seulement dans les ressources disponibles ou les résultats mesurables, mais aussi dans la chaîne de production des savoirs : dans la répartition des tâches, le contrôle des données, les infrastructures de publication et la conversion différenciée du travail scientifique en capital académique.
 
 ## Pour une diplomatie scientifique fondée sur l'analyse des asymétries
 
@@ -73,17 +77,14 @@ CREONS se situe à l’articulation entre recherche empirique, économie politiq
 CREONS s’inscrit en coordination étroite avec deux dispositifs structurants de l’UMI SOURCE :
 
 ::: {#psf-creons .callout-note .etude-micro collapse="false" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
-
 Le **Projet Structurant de Formation « Coopérative de recherche équitable et ouverte Nords-Suds » (PSF CREONS)**, financé par l’IRD à hauteur de **30 000 €** sur trois ans (2024-2027), vise à consolider une coopérative de recherche équitable entre les antennes de l’UMI SOURCE en Côte d’Ivoire, en France, à Madagascar et au Sénégal.
 
 Ce programme repose sur le développement du **protocole T2VA** — la science ouverte comme outil de **Travail, de Valorisation, de Vérification et d’Accompagnement** — et répond directement aux inégalités de recherche en développant des formations, des outils partagés et une culture de reproductibilité scientifique.
 
 [**Rubrique du PSF CREONS ici**](https://umisource.github.io/CREONS/fr/axe2.html)
-
 :::
 
 ::: {.callout-note .etude-micro collapse="false" icon="false" title="GTDID - Groupe de travail sur les disparités et inégalités doctorales"}
-
 **Qui sommes-nous ?**
 
 Le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** réunit des doctorant.es, chercheur.euses, enseignant.es-chercheur.euses et personnels d’appui à la recherche membres ou associé.es à l’UMI SOURCE.
@@ -99,8 +100,4 @@ Les inégalités scientifiques ne concernent pas uniquement la visibilité des p
 Le doctorat constitue ainsi un point d’observation privilégié pour analyser la manière dont les ressources institutionnelles, financières, matérielles et humaines influencent les possibilités de produire et de diffuser des connaissances.
 
 Le GTDID étudie également le rôle de la science ouverte, envisagée à la fois comme un moyen potentiel de faciliter l’accès aux ressources scientifiques et comme un ensemble de pratiques dont l’adoption dépend elle-même de compétences, d’équipements et d’infrastructures inégalement répartis.
-
 :::
-
-
-
