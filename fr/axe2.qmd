@@ -7,14 +7,19 @@ format:
 bibliography: references.bib
 ---
 
-## Description 
+## Description
+
+Cet axe interroge les conditions dans lesquelles la science ouverte peut contribuer à réduire les asymétries qui structurent la production, la circulation et la valorisation des connaissances entre les Nords et les Suds. Il ne s’agit pas de considérer l’ouverture des publications, des données, des codes ou des ressources pédagogiques comme une solution en soi, mais d’analyser les ressources, les compétences, les infrastructures et les formes d’accompagnement nécessaires à leur appropriation effective.
+
+L’approche développée par CREONS a vocation à articuler plusieurs niveaux d’analyse. À l’échelle **micro**, elle étudie les connaissances, les usages et les contraintes rencontrées par les personnes engagées dans la recherche. À l’échelle **méso**, elle s’intéressera au rôle des laboratoires, des écoles doctorales, des universités et des services d’appui dans la diffusion et l’institutionnalisation des pratiques de science ouverte. À l’échelle **macro**, elle pourra interroger les politiques nationales de recherche, les infrastructures scientifiques, les dispositifs de financement et les formes de dépendance qui conditionnent la capacité des systèmes scientifiques à s’inscrire dans les dynamiques d’ouverture.
+
+Les premiers travaux prennent principalement appui sur une approche micro. L’enquête portée par le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** permet d’analyser les usages et les conditions d’appropriation de la science ouverte au cours du doctorat. En parallèle, le **PSF CREONS** constitue un espace d’expérimentation et de formation visant à développer des pratiques de recherche ouvertes, collaboratives et reproductibles dans différents contextes institutionnels.
 
 ## Premières approches
-### L’enquête GTDID : usages et conditions d’appropriation de la science ouverte
 
-L’enquête conduite par le **Groupe de travail sur les disparités et inégalités doctorales (GTDID)** constitue un dispositif transversal à plusieurs axes de CREONS. Tandis que l’axe 1 mobilise principalement cette enquête pour analyser les conditions matérielles, institutionnelles et académiques de réalisation du doctorat, l’axe 2 s’intéresse plus spécifiquement aux connaissances, aux usages et aux conditions d’appropriation des outils et des pratiques de la science ouverte.
+Les deux premières démarches présentées ci-dessous associent ainsi un dispositif d’enquête sur les conditions d’appropriation de la science ouverte et un programme de formation destiné à expérimenter des formes d’accompagnement adaptées aux environnements scientifiques des différentes antennes de l’UMI SOURCE.
 
-::: {.callout-note .etude-micro collapse="true" icon="false" title="Enquête GTDID — Usages et conditions d’appropriation de la science ouverte"}
+::: {.callout-note .etude-micro collapse="true" icon="false" title="Enquête GTDID - Usages et conditions d’appropriation de la science ouverte"}
 
 **Question de recherche**
 
@@ -34,8 +39,7 @@ L’enquête documente notamment :
 4. l’utilisation d’outils collaboratifs, bibliographiques et reproductibles ;
 5. la connaissance et l’utilisation des archives ouvertes et des entrepôts de données ;
 6. les formations reçues et les besoins d’accompagnement exprimés ;
-7. l’accès aux équipements, aux logiciels et à une connexion internet suffisamment stable ;
-8. le rôle de l’encadrement doctoral, des laboratoires et des établissements dans la diffusion de ces pratiques.
+7. l’accès aux équipements, aux logiciels et à une connexion internet suffisamment stable.
 
 **Des usages aux conditions d’appropriation**
 
@@ -50,26 +54,20 @@ L’enquête permet ainsi d’étudier plusieurs niveaux complémentaires d’ap
 
 **Une perspective comparative**
 
-Une première phase de l’enquête a été réalisée auprès de doctorant.es en sciences sociales et environnementales de l’Université Cheikh Anta Diop de Dakar. Elle a permis de constituer le premier volet du jeu de données **DWISE — Doctoral Work and Inequalities in Scientific Ecosystems** [@faye2026].
+Une première phase de l’enquête a été réalisée auprès de doctorant.e.s en sciences sociales et environnementales de l’Université Cheikh Anta Diop de Dakar. Elle a permis de constituer le premier volet du jeu de données **DWISE — Doctoral Work and Inequalities in Scientific Ecosystems** [@faye2026].
 
 Une deuxième phase est menée à l’Université d’Antananarivo. La comparaison entre les deux terrains permettra d’identifier les contraintes communes, mais également les différences liées aux environnements universitaires, aux infrastructures disponibles et aux formes locales d’organisation de la recherche.
 
 **La science ouverte face aux asymétries scientifiques**
 
-Cette recherche permet d’examiner de manière empirique une tension centrale de CREONS. La science ouverte peut réduire certaines barrières en facilitant l’accès aux connaissances, la diffusion des travaux et la réutilisation des ressources scientifiques. Mais elle peut également reproduire ou accentuer les inégalités lorsque son adoption suppose des équipements, des compétences et des infrastructures dont tous les doctorant.es ne disposent pas.
+Cette recherche permet d’examiner de manière empirique une tension centrale de CREONS. La science ouverte peut réduire certaines barrières en facilitant l’accès aux connaissances, la diffusion des travaux et la réutilisation des ressources scientifiques. Mais tenant compte de ces disparités en ressources, elle pourrait également reproduire ou accentuer les inégalités lorsque son adoption suppose des équipements, des compétences et des infrastructures dont tous les doctorant.e.s ne disposent pas.
 
 L’enjeu est donc de déterminer non seulement si les outils de la science ouverte sont utilisés, mais **par qui, dans quelles conditions et avec quels effets sur les capacités de recherche**.
-
-**Articulation avec le PSF CREONS**
-
-Les résultats de l’enquête ont également vocation à orienter les actions de formation et d’accompagnement du **PSF CREONS**. L’identification des pratiques existantes, des obstacles et des besoins permet d’adapter les formations du protocole T2VA aux conditions concrètes rencontrées dans les différents environnements universitaires.
-
-L’enquête et le dispositif de formation constituent ainsi deux démarches complémentaires : la première documente les conditions d’appropriation de la science ouverte, tandis que le second expérimente des formes d’accompagnement susceptibles de les renforcer.
 
 :::
 
 
-::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS — Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
+::: {.callout-note .projet-structurant collapse="true" icon="false" title="PSF CREONS - Coopérative de recherche équitable et ouverte Nords-Suds (2024-2027)"}
 
 
 > ### 📰 Contacts et liens
