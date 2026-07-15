@@ -28,7 +28,7 @@ Issu.es des antennes de l’UMI SOURCE en Côte d’Ivoire, en France, à Madaga
 
 Le GTDID part d’une question centrale : **comment mener des recherches robustes dans des environnements structurellement inégaux ?** Il étudie en particulier la manière dont les ressources institutionnelles, financières, matérielles et humaines influencent les possibilités de produire, de diffuser et de valoriser les connaissances.
 
-::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro — DWISE : conditions de réalisation du doctorat"}
+::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro - DWISE : conditions de réalisation du doctorat"}
 **Objectif**
 
 Afin de documenter empiriquement les inégalités scientifiques, le GTDID conduit une enquête comparative sur les conditions de réalisation du doctorat dans différents environnements universitaires.
@@ -56,7 +56,7 @@ Le questionnaire porte principalement sur :
 À terme, cette démarche doit contribuer à construire une grille d’analyse comparative des environnements doctoraux et à nourrir les réflexions sur les politiques de formation, les conditions de travail scientifique et les formes de coopération académique entre les Nords et les Suds, mais également entre les Suds.
 :::
 
-::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro — Trajectoires académiques et spécialisations scientifiques"}
+::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro - Trajectoires académiques et spécialisations scientifiques"}
 **Objet de la recherche**
 
 En complément des enquêtes sur les conditions de réalisation du doctorat, cette étude analyse les thèses d’économie soutenues en France par des docteur.es ayant suivi une partie de leur formation universitaire en Afrique.
@@ -82,7 +82,7 @@ Elle pourra être prolongée par :
 -   l’étude conjointe des formations, des mobilités, des objets de recherche et des trajectoires professionnelles.
 :::
 
-::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro — Enquêtes de terrain et production des données à Madagascar"}
+::: {.callout-note .etude-micro collapse="true" icon="false" title="Approche micro - Enquêtes de terrain et production des données à Madagascar"}
 **Problématique**
 
 La production scientifique mondiale demeure structurée par des inégalités de ressources, de reconnaissance et de capacité à définir les agendas de recherche [@xie_undemocracy_2014; @wagner_new_2008; @losego_science_2008].
@@ -116,7 +116,7 @@ En complément de la valorisation académique, les récits et les situations doc
 
 L’approche méso étudie la construction des capacités scientifiques à l’échelle des organisations. Elle considère les universités comme des lieux d’accumulation de ressources, de compétences, de collaborations et de capital scientifique.
 
-::: {.callout-note .etude-meso collapse="true" icon="false" title="Approche méso — Trajectoires institutionnelles et pièges de sous-développement universitaire"}
+::: {.callout-note .etude-meso collapse="true" icon="false" title="Approche méso - Trajectoires institutionnelles et pièges de sous-développement universitaire"}
 **Question centrale**
 
 Les universités jouent un rôle central dans la production et l’accumulation des connaissances, mais elles évoluent dans un espace scientifique mondial marqué par de fortes inégalités de ressources, d’infrastructures, de capital scientifique et d’accès aux réseaux académiques [@ralfs2026].
