@@ -1,0 +1,14 @@
+---
+title: "Axe 2. La science ouverte peut-elle réduire les asymétries scientifiques ?"
+format:
+  html:
+    page-layout: article
+bibliography: references.bib
+---
+
+## Description 
+
+## Premières approches
+### L'enquête GTDID sur l'appropriation doctorale des outils de la SO et possibilités d'appropriation
+### PSF CREONS
+

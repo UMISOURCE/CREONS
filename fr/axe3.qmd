@@ -1,0 +1,8 @@
+---
+title: "Axe 3. L'intelligence artificielle transforme-t-elle les rapports de production scientifique ?"
+format:
+  html:
+    page-layout: article
+bibliography: references.bib
+---
+
